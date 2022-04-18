@@ -1,0 +1,3 @@
+# Work
+
+Copyright Statement: This repository includes many materials from other institutions or universities. Please note this is for personal use only, any kind of re-distribution for business purpose is strictly prohibited. However, most of the materials are not just copy-paste works, many effors have been made to improve the quality of these notes and codes. If any bug or error is identified, please contact the author, Kefan Li (kefanli at andrew.cmu.edu)
