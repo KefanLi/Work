@@ -1,0 +1,4445 @@
+city,date,value
+Pittsburgh,1987-01-01,100.0
+Pittsburgh,1988-01-01,103.7
+Pittsburgh,1989-01-01,107.2
+Pittsburgh,1990-01-01,111.7
+Pittsburgh,1991-01-01,116.4
+Pittsburgh,1992-01-01,119.2
+Pittsburgh,1993-01-01,124.0
+Pittsburgh,1994-01-01,126.5
+Pittsburgh,1995-01-01,129.7
+Pittsburgh,1996-01-01,131.6
+Pittsburgh,1997-01-01,134.0
+Pittsburgh,1998-01-01,137.5
+Pittsburgh,1999-01-01,140.6
+Pittsburgh,2000-01-01,145.7
+Pittsburgh,2001-01-01,148.8
+Pittsburgh,2002-01-01,153.9
+Pittsburgh,2003-01-01,158.1
+Pittsburgh,2004-01-01,162.0
+Pittsburgh,2005-01-01,168.5
+Pittsburgh,2006-01-01,175.2
+Pittsburgh,2007-01-01,184.288
+Pittsburgh,2008-01-01,190.136
+Pittsburgh,2009-01-01,189.905
+Pittsburgh,2010-01-01,193.504
+Pittsburgh,2011-01-01,198.938
+Pittsburgh,2012-01-01,203.637
+Pittsburgh,2013-01-01,206.786
+Pittsburgh,2014-01-01,210.815
+Pittsburgh,2015-01-01,211.557
+Pittsburgh,2016-01-01,214.037
+Pittsburgh,2017-01-01,219.461
+Pittsburgh,2018-01-01,224.263
+Pittsburgh,2019-01-01,228.134
+Pittsburgh,2020-01-01,233.844
+Pittsburgh,2021-01-01,247.951
+Pittsburgh,2022-01-01,273.597
+Miami,1977-11-01,64.9
+Miami,1978-01-01,65.8
+Miami,1978-03-01,66.4
+Miami,1978-05-01,66.0
+Miami,1978-07-01,66.8
+Miami,1978-09-01,67.8
+Miami,1978-11-01,67.3
+Miami,1979-01-01,68.2
+Miami,1979-03-01,69.3
+Miami,1979-05-01,70.4
+Miami,1979-07-01,70.5
+Miami,1979-09-01,72.0
+Miami,1979-11-01,73.0
+Miami,1980-01-01,75.0
+Miami,1980-03-01,78.8
+Miami,1980-05-01,79.1
+Miami,1980-07-01,81.7
+Miami,1980-09-01,81.3
+Miami,1980-11-01,84.1
+Miami,1981-01-01,89.2
+Miami,1981-03-01,90.5
+Miami,1981-05-01,91.8
+Miami,1981-07-01,91.4
+Miami,1981-09-01,90.6
+Miami,1981-11-01,94.0
+Miami,1982-01-01,96.2
+Miami,1982-03-01,96.7
+Miami,1982-05-01,98.3
+Miami,1982-07-01,96.1
+Miami,1982-09-01,96.7
+Miami,1982-11-01,98.9
+Miami,1983-01-01,99.9
+Miami,1983-03-01,101.2
+Miami,1983-05-01,99.9
+Miami,1983-07-01,101.5
+Miami,1983-09-01,101.8
+Miami,1983-11-01,101.3
+Miami,1984-01-01,101.5
+Miami,1984-03-01,101.4
+Miami,1984-05-01,101.7
+Miami,1984-07-01,101.4
+Miami,1984-09-01,102.2
+Miami,1984-11-01,101.8
+Miami,1985-01-01,102.3
+Miami,1985-03-01,102.1
+Miami,1985-05-01,103.5
+Miami,1985-07-01,103.6
+Miami,1985-09-01,106.2
+Miami,1985-11-01,105.3
+Miami,1986-01-01,105.2
+Miami,1986-03-01,106.1
+Miami,1986-05-01,105.9
+Miami,1986-07-01,106.3
+Miami,1986-09-01,106.7
+Miami,1986-11-01,106.4
+Miami,1986-12-01,106.6
+Miami,1987-01-01,106.8
+Miami,1987-02-01,106.7
+Miami,1987-03-01,107.4
+Miami,1987-04-01,107.4
+Miami,1987-05-01,107.1
+Miami,1987-06-01,106.8
+Miami,1987-07-01,108.2
+Miami,1987-08-01,108.1
+Miami,1987-09-01,108.1
+Miami,1987-10-01,108.7
+Miami,1987-11-01,108.7
+Miami,1987-12-01,108.6
+Miami,1988-01-01,110.1
+Miami,1988-02-01,110.3
+Miami,1988-03-01,109.0
+Miami,1988-04-01,110.2
+Miami,1988-05-01,110.8
+Miami,1988-06-01,111.0
+Miami,1988-07-01,111.0
+Miami,1988-08-01,110.9
+Miami,1988-09-01,113.6
+Miami,1988-10-01,113.2
+Miami,1988-11-01,112.6
+Miami,1988-12-01,112.7
+Miami,1989-01-01,112.6
+Miami,1989-02-01,113.0
+Miami,1989-03-01,112.0
+Miami,1989-04-01,116.4
+Miami,1989-05-01,116.0
+Miami,1989-06-01,115.6
+Miami,1989-07-01,115.1
+Miami,1989-08-01,115.6
+Miami,1989-09-01,113.5
+Miami,1989-10-01,114.8
+Miami,1989-11-01,115.4
+Miami,1989-12-01,115.4
+Miami,1990-01-01,115.5
+Miami,1990-02-01,115.6
+Miami,1990-03-01,112.5
+Miami,1990-04-01,115.6
+Miami,1990-05-01,115.6
+Miami,1990-06-01,117.4
+Miami,1990-07-01,119.0
+Miami,1990-08-01,119.1
+Miami,1990-09-01,120.8
+Miami,1990-10-01,119.7
+Miami,1990-11-01,118.6
+Miami,1990-12-01,118.6
+Miami,1991-01-01,118.2
+Miami,1991-02-01,118.7
+Miami,1991-03-01,120.4
+Miami,1991-04-01,121.3
+Miami,1991-05-01,121.7
+Miami,1991-06-01,121.2
+Miami,1991-07-01,120.6
+Miami,1991-08-01,120.7
+Miami,1991-09-01,122.0
+Miami,1991-10-01,122.3
+Miami,1991-11-01,125.2
+Miami,1991-12-01,124.6
+Miami,1992-01-01,124.4
+Miami,1992-02-01,123.7
+Miami,1992-03-01,125.7
+Miami,1992-04-01,125.1
+Miami,1992-05-01,124.2
+Miami,1992-06-01,124.6
+Miami,1992-07-01,125.5
+Miami,1992-08-01,125.2
+Miami,1992-09-01,124.1
+Miami,1992-10-01,124.7
+Miami,1992-11-01,125.9
+Miami,1992-12-01,126.1
+Miami,1993-01-01,127.3
+Miami,1993-02-01,127.9
+Miami,1993-03-01,126.8
+Miami,1993-04-01,128.1
+Miami,1993-05-01,128.4
+Miami,1993-06-01,128.7
+Miami,1993-07-01,130.6
+Miami,1993-08-01,132.9
+Miami,1993-09-01,133.2
+Miami,1993-10-01,132.8
+Miami,1993-11-01,131.0
+Miami,1993-12-01,132.2
+Miami,1994-01-01,133.2
+Miami,1994-02-01,134.2
+Miami,1994-03-01,136.5
+Miami,1994-04-01,137.6
+Miami,1994-05-01,137.2
+Miami,1994-06-01,137.2
+Miami,1994-07-01,137.0
+Miami,1994-08-01,137.0
+Miami,1994-09-01,138.4
+Miami,1994-10-01,138.5
+Miami,1994-11-01,139.3
+Miami,1994-12-01,139.1
+Miami,1995-01-01,139.4
+Miami,1995-02-01,139.8
+Miami,1995-03-01,139.7
+Miami,1995-04-01,139.7
+Miami,1995-05-01,140.4
+Miami,1995-06-01,140.7
+Miami,1995-07-01,140.9
+Miami,1995-08-01,141.7
+Miami,1995-09-01,142.0
+Miami,1995-10-01,142.6
+Miami,1995-11-01,142.7
+Miami,1995-12-01,143.2
+Miami,1996-01-01,143.8
+Miami,1996-02-01,144.1
+Miami,1996-03-01,144.4
+Miami,1996-04-01,144.9
+Miami,1996-05-01,145.4
+Miami,1996-06-01,145.7
+Miami,1996-07-01,145.5
+Miami,1996-08-01,145.8
+Miami,1996-09-01,146.2
+Miami,1996-10-01,146.6
+Miami,1996-11-01,146.9
+Miami,1996-12-01,147.3
+Miami,1997-01-01,147.7
+Miami,1997-02-01,147.8
+Miami,1997-03-01,147.6
+Miami,1997-04-01,148.0
+Miami,1997-05-01,148.1
+Miami,1997-06-01,148.5
+Miami,1997-07-01,148.8
+Miami,1997-08-01,149.3
+Miami,1997-09-01,149.2
+Miami,1997-10-01,149.3
+Miami,1997-11-01,149.5
+Miami,1997-12-01,149.9
+Miami,1998-01-01,149.9
+Miami,1998-02-01,150.3
+Miami,1998-03-01,150.9
+Miami,1998-04-01,150.9
+Miami,1998-05-01,150.9
+Miami,1998-06-01,151.1
+Miami,1998-07-01,151.4
+Miami,1998-08-01,151.5
+Miami,1998-09-01,151.4
+Miami,1998-10-01,151.9
+Miami,1998-11-01,152.1
+Miami,1998-12-01,152.6
+Miami,1999-01-01,152.0
+Miami,1999-02-01,152.5
+Miami,1999-03-01,152.9
+Miami,1999-04-01,152.7
+Miami,1999-05-01,152.8
+Miami,1999-06-01,152.9
+Miami,1999-07-01,153.0
+Miami,1999-08-01,153.0
+Miami,1999-09-01,153.1
+Miami,1999-10-01,153.2
+Miami,1999-11-01,153.4
+Miami,1999-12-01,153.6
+Miami,2000-01-01,154.2
+Miami,2000-02-01,154.1
+Miami,2000-03-01,154.4
+Miami,2000-04-01,154.7
+Miami,2000-05-01,154.7
+Miami,2000-06-01,155.4
+Miami,2000-07-01,155.6
+Miami,2000-08-01,156.0
+Miami,2000-09-01,156.6
+Miami,2000-10-01,156.7
+Miami,2000-11-01,157.2
+Miami,2000-12-01,157.0
+Miami,2001-01-01,157.4
+Miami,2001-02-01,158.3
+Miami,2001-03-01,158.8
+Miami,2001-04-01,159.0
+Miami,2001-05-01,159.4
+Miami,2001-06-01,160.0
+Miami,2001-07-01,160.7
+Miami,2001-08-01,161.4
+Miami,2001-09-01,162.3
+Miami,2001-10-01,162.5
+Miami,2001-11-01,163.4
+Miami,2001-12-01,164.0
+Miami,2002-01-01,164.6
+Miami,2002-02-01,165.4
+Miami,2002-03-01,165.7
+Miami,2002-04-01,166.3
+Miami,2002-05-01,167.2
+Miami,2002-06-01,167.8
+Miami,2002-07-01,168.5
+Miami,2002-08-01,169.4
+Miami,2002-09-01,170.3
+Miami,2002-10-01,171.2
+Miami,2002-11-01,171.8
+Miami,2002-12-01,171.9
+Miami,2003-01-01,172.4
+Miami,2003-02-01,172.8
+Miami,2003-03-01,173.1
+Miami,2003-04-01,173.3
+Miami,2003-05-01,173.5
+Miami,2003-06-01,173.8
+Miami,2003-07-01,174.0
+Miami,2003-08-01,175.0
+Miami,2003-09-01,175.5
+Miami,2003-10-01,176.1
+Miami,2003-11-01,177.3
+Miami,2003-12-01,178.4
+Miami,2004-01-01,178.8
+Miami,2004-02-01,180.2
+Miami,2004-03-01,181.2
+Miami,2004-04-01,183.1
+Miami,2004-05-01,183.8
+Miami,2004-06-01,184.0
+Miami,2004-07-01,185.3
+Miami,2004-08-01,185.8
+Miami,2004-09-01,187.2
+Miami,2004-10-01,187.4
+Miami,2004-11-01,188.9
+Miami,2004-12-01,190.3
+Miami,2005-01-01,191.3
+Miami,2005-02-01,192.0
+Miami,2005-03-01,193.7
+Miami,2005-04-01,194.5
+Miami,2005-05-01,195.3
+Miami,2005-06-01,195.4
+Miami,2005-07-01,196.9
+Miami,2005-08-01,197.9
+Miami,2005-09-01,198.4
+Miami,2005-10-01,199.3
+Miami,2005-11-01,199.8
+Miami,2005-12-01,200.8
+Miami,2006-01-01,201.5
+Miami,2006-02-01,203.6
+Miami,2006-03-01,204.8
+Miami,2006-04-01,206.2
+Miami,2006-05-01,206.9
+Miami,2006-06-01,208.6
+Miami,2006-07-01,211.0
+Miami,2006-08-01,213.0
+Miami,2006-09-01,213.7
+Miami,2006-10-01,215.9
+Miami,2006-11-01,216.8
+Miami,2006-12-01,218.8
+Miami,2007-01-01,221.261
+Miami,2007-02-01,221.921
+Miami,2007-03-01,224.634
+Miami,2007-04-01,224.094
+Miami,2007-05-01,226.341
+Miami,2007-06-01,227.521
+Miami,2007-07-01,227.682
+Miami,2007-08-01,228.851
+Miami,2007-09-01,229.632
+Miami,2007-10-01,231.487
+Miami,2007-11-01,232.696
+Miami,2007-12-01,233.682
+Miami,2008-01-01,234.386
+Miami,2008-02-01,235.161
+Miami,2008-03-01,235.998
+Miami,2008-04-01,237.452
+Miami,2008-05-01,239.548
+Miami,2008-06-01,240.264
+Miami,2008-07-01,240.155
+Miami,2008-08-01,240.198
+Miami,2008-09-01,240.537
+Miami,2008-10-01,240.194
+Miami,2008-11-01,240.768
+Miami,2008-12-01,241.531
+Miami,2009-01-01,241.771
+Miami,2009-02-01,240.162
+Miami,2009-03-01,239.911
+Miami,2009-04-01,238.799
+Miami,2009-05-01,238.523
+Miami,2009-06-01,237.546
+Miami,2009-07-01,236.892
+Miami,2009-08-01,236.357
+Miami,2009-09-01,236.261
+Miami,2009-10-01,236.946
+Miami,2009-11-01,235.884
+Miami,2009-12-01,236.037
+Miami,2010-01-01,236.467
+Miami,2010-02-01,236.18
+Miami,2010-03-01,235.841
+Miami,2010-04-01,236.418
+Miami,2010-05-01,236.731
+Miami,2010-06-01,236.858
+Miami,2010-07-01,237.062
+Miami,2010-08-01,237.16
+Miami,2010-09-01,237.462
+Miami,2010-10-01,236.607
+Miami,2010-11-01,237.64
+Miami,2010-12-01,238.489
+Miami,2011-01-01,237.623
+Miami,2011-02-01,236.717
+Miami,2011-03-01,236.933
+Miami,2011-04-01,236.904
+Miami,2011-05-01,237.103
+Miami,2011-06-01,237.115
+Miami,2011-07-01,237.019
+Miami,2011-08-01,238.388
+Miami,2011-09-01,237.817
+Miami,2011-10-01,238.327
+Miami,2011-11-01,238.604
+Miami,2011-12-01,239.198
+Miami,2012-01-01,239.38
+Miami,2012-02-01,239.659
+Miami,2012-03-01,239.994
+Miami,2012-04-01,240.426
+Miami,2012-05-01,240.684
+Miami,2012-06-01,240.691
+Miami,2012-07-01,241.615
+Miami,2012-08-01,242.25
+Miami,2012-09-01,242.778
+Miami,2012-10-01,243.587
+Miami,2012-11-01,243.902
+Miami,2012-12-01,244.3
+Miami,2013-01-01,244.139
+Miami,2013-02-01,244.645
+Miami,2013-03-01,244.652
+Miami,2013-04-01,245.4
+Miami,2013-05-01,245.531
+Miami,2013-06-01,245.885
+Miami,2013-07-01,246.13
+Miami,2013-08-01,245.621
+Miami,2013-09-01,248.091
+Miami,2013-10-01,248.275
+Miami,2013-11-01,249.959
+Miami,2013-12-01,250.701
+Miami,2014-01-01,252.403
+Miami,2014-02-01,254.064
+Miami,2014-03-01,254.526
+Miami,2014-04-01,255.434
+Miami,2014-05-01,255.386
+Miami,2014-06-01,256.567
+Miami,2014-07-01,257.383
+Miami,2014-08-01,257.798
+Miami,2014-09-01,258.935
+Miami,2014-10-01,259.672
+Miami,2014-11-01,264.096
+Miami,2014-12-01,265.083
+Miami,2015-01-01,265.705
+Miami,2015-02-01,267.493
+Miami,2015-03-01,270.367
+Miami,2015-04-01,271.326
+Miami,2015-05-01,270.038
+Miami,2015-06-01,270.36
+Miami,2015-07-01,271.759
+Miami,2015-08-01,273.862
+Miami,2015-09-01,273.897
+Miami,2015-10-01,275.088
+Miami,2015-11-01,275.932
+Miami,2015-12-01,277.078
+Miami,2016-01-01,277.602
+Miami,2016-02-01,278.524
+Miami,2016-03-01,280.443
+Miami,2016-04-01,282.039
+Miami,2016-05-01,283.457
+Miami,2016-06-01,283.84
+Miami,2016-07-01,285.458
+Miami,2016-08-01,287.412
+Miami,2016-09-01,288.589
+Miami,2016-10-01,290.855
+Miami,2016-11-01,292.047
+Miami,2016-12-01,293.167
+Miami,2017-01-01,293.35
+Miami,2017-02-01,294.536
+Miami,2017-03-01,295.441
+Miami,2017-04-01,295.815
+Miami,2017-05-01,296.857
+Miami,2017-06-01,297.487
+Miami,2017-07-01,299.289
+Miami,2017-08-01,300.696
+Miami,2017-09-01,301.458
+Miami,2017-10-01,302.409
+Miami,2017-11-01,303.151
+Miami,2017-12-01,302.978
+Miami,2018-01-01,303.51
+Miami,2018-02-01,304.513
+Miami,2018-03-01,305.143
+Miami,2018-04-01,306.208
+Miami,2018-05-01,307.132
+Miami,2018-06-01,308.871
+Miami,2018-07-01,308.909
+Miami,2018-08-01,309.482
+Miami,2018-09-01,310.391
+Miami,2018-10-01,311.977
+Miami,2018-11-01,313.295
+Miami,2018-12-01,313.73
+Miami,2019-01-01,316.937
+Miami,2019-02-01,318.861
+Miami,2019-03-01,320.204
+Miami,2019-04-01,321.141
+Miami,2019-05-01,321.48
+Miami,2019-06-01,323.032
+Miami,2019-07-01,322.234
+Miami,2019-08-01,322.476
+Miami,2019-09-01,322.667
+Miami,2019-10-01,322.758
+Miami,2019-11-01,323.011
+Miami,2019-12-01,322.307
+Miami,2020-01-01,323.49
+Miami,2020-02-01,323.225
+Miami,2020-03-01,324.101
+Miami,2020-04-01,324.861
+Miami,2020-05-01,325.866
+Miami,2020-06-01,325.126
+Miami,2020-07-01,325.982
+Miami,2020-08-01,327.722
+Miami,2020-09-01,329.145
+Miami,2020-10-01,329.551
+Miami,2020-11-01,330.119
+Miami,2020-12-01,330.959
+Miami,2021-01-01,331.089
+Miami,2021-02-01,329.676
+Miami,2021-03-01,330.577
+Miami,2021-04-01,331.07
+Miami,2021-05-01,331.433
+Miami,2021-06-01,332.098
+Miami,2021-07-01,332.972
+Miami,2021-08-01,334.492
+Miami,2021-09-01,337.814
+Miami,2021-10-01,339.577
+Miami,2021-11-01,341.062
+Miami,2021-12-01,343.25
+Miami,2022-01-01,347.541
+Miami,2022-02-01,352.89
+Miami,2022-03-01,356.686
+Miami,2022-04-01,360.323
+Miami,2022-05-01,368.197
+Miami,2022-06-01,372.926
+Miami,2022-07-01,378.882
+Miami,2022-08-01,383.113
+Miami,2022-09-01,387.471
+Miami,2022-10-01,394.677
+Miami,2022-11-01,400.988
+Miami,2022-12-01,407.084
+Miami,2023-01-01,410.552
+Miami,2023-02-01,418.678
+Miami,2023-03-01,423.455
+Miami,2023-04-01,428.894
+Miami,2023-05-01,432.227
+Miami,2023-06-01,436.23
+Miami,2023-07-01,440.592
+Miami,2023-08-01,441.837
+Miami,2023-09-01,443.334
+Miami,2023-10-01,445.739
+New York City,1914-12-01,9.9
+New York City,1915-12-01,10.1
+New York City,1916-12-01,11.3
+New York City,1917-12-01,13.8
+New York City,1918-12-01,16.8
+New York City,1919-06-01,17.1
+New York City,1919-12-01,19.3
+New York City,1920-06-01,20.9
+New York City,1920-12-01,19.5
+New York City,1921-05-01,17.9
+New York City,1921-09-01,17.8
+New York City,1921-12-01,17.9
+New York City,1922-03-01,17.1
+New York City,1922-06-01,17.2
+New York City,1922-09-01,17.1
+New York City,1922-12-01,17.4
+New York City,1923-03-01,17.3
+New York City,1923-06-01,17.4
+New York City,1923-09-01,17.6
+New York City,1923-12-01,17.8
+New York City,1924-03-01,17.4
+New York City,1924-06-01,17.4
+New York City,1924-09-01,17.4
+New York City,1924-12-01,17.7
+New York City,1925-06-01,17.7
+New York City,1925-12-01,18.5
+New York City,1926-06-01,18.1
+New York City,1926-12-01,18.1
+New York City,1927-06-01,18.0
+New York City,1927-12-01,18.1
+New York City,1928-06-01,17.7
+New York City,1928-12-01,17.8
+New York City,1929-06-01,17.8
+New York City,1929-12-01,17.9
+New York City,1930-06-01,17.4
+New York City,1930-12-01,17.0
+New York City,1931-06-01,16.0
+New York City,1931-12-01,15.4
+New York City,1932-06-01,14.7
+New York City,1932-12-01,14.2
+New York City,1933-06-01,13.7
+New York City,1933-12-01,14.0
+New York City,1934-06-01,14.3
+New York City,1934-11-01,14.4
+New York City,1935-03-01,14.4
+New York City,1935-07-01,14.3
+New York City,1935-10-01,14.4
+New York City,1936-01-01,14.6
+New York City,1936-04-01,14.4
+New York City,1936-07-01,14.5
+New York City,1936-09-01,14.7
+New York City,1936-12-01,14.5
+New York City,1937-03-01,14.8
+New York City,1937-06-01,14.8
+New York City,1937-09-01,15.2
+New York City,1937-12-01,15.0
+New York City,1938-03-01,14.5
+New York City,1938-06-01,14.5
+New York City,1938-09-01,14.6
+New York City,1938-12-01,14.6
+New York City,1939-03-01,14.5
+New York City,1939-06-01,14.3
+New York City,1939-09-01,14.8
+New York City,1939-12-01,14.6
+New York City,1940-03-01,14.7
+New York City,1940-06-01,14.8
+New York City,1940-09-01,14.7
+New York City,1940-10-01,14.6
+New York City,1940-11-01,14.7
+New York City,1940-12-01,14.7
+New York City,1941-01-01,14.7
+New York City,1941-02-01,14.8
+New York City,1941-03-01,14.8
+New York City,1941-04-01,14.9
+New York City,1941-05-01,15.0
+New York City,1941-06-01,15.2
+New York City,1941-07-01,15.3
+New York City,1941-08-01,15.4
+New York City,1941-09-01,15.6
+New York City,1941-10-01,15.7
+New York City,1941-11-01,15.8
+New York City,1941-12-01,15.8
+New York City,1942-01-01,16.1
+New York City,1942-02-01,16.2
+New York City,1942-03-01,16.3
+New York City,1942-04-01,16.4
+New York City,1942-05-01,16.5
+New York City,1942-06-01,16.7
+New York City,1942-07-01,16.8
+New York City,1942-08-01,16.9
+New York City,1942-09-01,16.9
+New York City,1942-10-01,17.1
+New York City,1942-11-01,17.3
+New York City,1942-12-01,17.4
+New York City,1943-01-01,17.5
+New York City,1943-02-01,17.5
+New York City,1943-03-01,17.8
+New York City,1943-04-01,17.9
+New York City,1943-05-01,18.1
+New York City,1943-06-01,18.1
+New York City,1943-07-01,18.1
+New York City,1943-08-01,17.9
+New York City,1943-09-01,18.1
+New York City,1943-10-01,18.2
+New York City,1943-11-01,18.2
+New York City,1943-12-01,18.2
+New York City,1944-01-01,18.2
+New York City,1944-02-01,18.1
+New York City,1944-03-01,18.2
+New York City,1944-04-01,18.3
+New York City,1944-05-01,18.4
+New York City,1944-06-01,18.4
+New York City,1944-07-01,18.5
+New York City,1944-08-01,18.5
+New York City,1944-09-01,18.5
+New York City,1944-10-01,18.5
+New York City,1944-11-01,18.6
+New York City,1944-12-01,18.6
+New York City,1945-01-01,18.6
+New York City,1945-02-01,18.6
+New York City,1945-03-01,18.5
+New York City,1945-04-01,18.6
+New York City,1945-05-01,18.7
+New York City,1945-06-01,18.9
+New York City,1945-07-01,19.1
+New York City,1945-08-01,19.0
+New York City,1945-09-01,18.9
+New York City,1945-10-01,18.9
+New York City,1945-11-01,19.0
+New York City,1945-12-01,19.1
+New York City,1946-01-01,19.2
+New York City,1946-02-01,19.2
+New York City,1946-03-01,19.3
+New York City,1946-04-01,19.5
+New York City,1946-05-01,19.6
+New York City,1946-06-01,19.8
+New York City,1946-07-01,21.0
+New York City,1946-08-01,21.3
+New York City,1946-09-01,21.8
+New York City,1946-10-01,22.3
+New York City,1946-11-01,22.5
+New York City,1946-12-01,22.7
+New York City,1947-01-01,22.6
+New York City,1947-02-01,22.5
+New York City,1947-03-01,23.0
+New York City,1947-04-01,22.9
+New York City,1947-05-01,22.7
+New York City,1947-06-01,22.9
+New York City,1947-07-01,23.0
+New York City,1947-08-01,23.2
+New York City,1947-09-01,23.6
+New York City,1947-10-01,23.6
+New York City,1947-11-01,23.9
+New York City,1947-12-01,24.1
+New York City,1948-01-01,24.4
+New York City,1948-02-01,24.3
+New York City,1948-03-01,24.0
+New York City,1948-04-01,24.4
+New York City,1948-05-01,24.5
+New York City,1948-06-01,24.7
+New York City,1948-07-01,25.2
+New York City,1948-08-01,25.3
+New York City,1948-09-01,25.3
+New York City,1948-10-01,25.1
+New York City,1948-11-01,25.0
+New York City,1948-12-01,24.7
+New York City,1949-01-01,24.7
+New York City,1949-02-01,24.4
+New York City,1949-03-01,24.5
+New York City,1949-04-01,24.6
+New York City,1949-05-01,24.5
+New York City,1949-06-01,24.5
+New York City,1949-07-01,24.5
+New York City,1949-08-01,24.5
+New York City,1949-09-01,24.6
+New York City,1949-10-01,24.3
+New York City,1949-11-01,24.3
+New York City,1949-12-01,24.2
+New York City,1950-01-01,24.0
+New York City,1950-02-01,24.1
+New York City,1950-03-01,24.1
+New York City,1950-04-01,24.2
+New York City,1950-05-01,24.2
+New York City,1950-06-01,24.3
+New York City,1950-07-01,24.7
+New York City,1950-08-01,24.7
+New York City,1950-09-01,25.0
+New York City,1950-10-01,25.1
+New York City,1950-11-01,25.3
+New York City,1950-12-01,25.6
+New York City,1951-01-01,25.9
+New York City,1951-02-01,26.3
+New York City,1951-03-01,26.3
+New York City,1951-04-01,26.3
+New York City,1951-05-01,26.5
+New York City,1951-06-01,26.3
+New York City,1951-07-01,26.4
+New York City,1951-08-01,26.4
+New York City,1951-09-01,26.6
+New York City,1951-10-01,26.7
+New York City,1951-11-01,26.8
+New York City,1951-12-01,26.8
+New York City,1952-01-01,26.8
+New York City,1952-02-01,26.7
+New York City,1952-03-01,26.6
+New York City,1952-04-01,26.7
+New York City,1952-05-01,26.7
+New York City,1952-06-01,26.7
+New York City,1952-07-01,27.1
+New York City,1952-08-01,27.1
+New York City,1952-09-01,27.1
+New York City,1952-10-01,27.1
+New York City,1952-11-01,27.2
+New York City,1952-12-01,27.0
+New York City,1953-01-01,26.9
+New York City,1953-02-01,26.8
+New York City,1953-03-01,26.8
+New York City,1953-04-01,26.8
+New York City,1953-05-01,26.8
+New York City,1953-06-01,27.0
+New York City,1953-07-01,27.1
+New York City,1953-08-01,27.2
+New York City,1953-09-01,27.3
+New York City,1953-10-01,27.3
+New York City,1953-11-01,27.2
+New York City,1953-12-01,27.3
+New York City,1954-01-01,27.3
+New York City,1954-02-01,27.2
+New York City,1954-03-01,27.1
+New York City,1954-04-01,27.2
+New York City,1954-05-01,27.2
+New York City,1954-06-01,27.2
+New York City,1954-07-01,27.3
+New York City,1954-08-01,27.3
+New York City,1954-09-01,27.2
+New York City,1954-10-01,27.2
+New York City,1954-11-01,27.2
+New York City,1954-12-01,27.1
+New York City,1955-01-01,27.1
+New York City,1955-02-01,27.2
+New York City,1955-03-01,27.1
+New York City,1955-04-01,27.1
+New York City,1955-05-01,27.0
+New York City,1955-06-01,27.0
+New York City,1955-07-01,27.0
+New York City,1955-08-01,27.0
+New York City,1955-09-01,27.2
+New York City,1955-10-01,27.1
+New York City,1955-11-01,27.2
+New York City,1955-12-01,27.0
+New York City,1956-01-01,27.1
+New York City,1956-02-01,27.1
+New York City,1956-03-01,27.1
+New York City,1956-04-01,27.1
+New York City,1956-05-01,27.3
+New York City,1956-06-01,27.4
+New York City,1956-07-01,27.6
+New York City,1956-08-01,27.6
+New York City,1956-09-01,27.8
+New York City,1956-10-01,27.9
+New York City,1956-11-01,27.9
+New York City,1956-12-01,27.9
+New York City,1957-01-01,27.9
+New York City,1957-02-01,28.0
+New York City,1957-03-01,28.0
+New York City,1957-04-01,28.2
+New York City,1957-05-01,28.3
+New York City,1957-06-01,28.4
+New York City,1957-07-01,28.6
+New York City,1957-08-01,28.6
+New York City,1957-09-01,28.5
+New York City,1957-10-01,28.6
+New York City,1957-11-01,28.6
+New York City,1957-12-01,28.6
+New York City,1958-01-01,29.0
+New York City,1958-02-01,29.0
+New York City,1958-03-01,29.2
+New York City,1958-04-01,29.2
+New York City,1958-05-01,29.2
+New York City,1958-06-01,29.2
+New York City,1958-07-01,29.2
+New York City,1958-08-01,29.2
+New York City,1958-09-01,29.3
+New York City,1958-10-01,29.3
+New York City,1958-11-01,29.4
+New York City,1958-12-01,29.3
+New York City,1959-01-01,29.4
+New York City,1959-02-01,29.4
+New York City,1959-03-01,29.4
+New York City,1959-04-01,29.4
+New York City,1959-05-01,29.4
+New York City,1959-06-01,29.6
+New York City,1959-07-01,29.8
+New York City,1959-08-01,29.7
+New York City,1959-09-01,29.8
+New York City,1959-10-01,29.9
+New York City,1959-11-01,30.0
+New York City,1959-12-01,30.0
+New York City,1960-01-01,30.0
+New York City,1960-02-01,30.0
+New York City,1960-03-01,30.0
+New York City,1960-04-01,30.1
+New York City,1960-05-01,30.1
+New York City,1960-06-01,30.1
+New York City,1960-07-01,30.1
+New York City,1960-08-01,30.2
+New York City,1960-09-01,30.3
+New York City,1960-10-01,30.4
+New York City,1960-11-01,30.5
+New York City,1960-12-01,30.5
+New York City,1961-01-01,30.4
+New York City,1961-02-01,30.4
+New York City,1961-03-01,30.4
+New York City,1961-04-01,30.3
+New York City,1961-05-01,30.3
+New York City,1961-06-01,30.3
+New York City,1961-07-01,30.5
+New York City,1961-08-01,30.5
+New York City,1961-09-01,30.6
+New York City,1961-10-01,30.6
+New York City,1961-11-01,30.6
+New York City,1961-12-01,30.6
+New York City,1962-01-01,30.7
+New York City,1962-02-01,30.8
+New York City,1962-03-01,30.8
+New York City,1962-04-01,30.8
+New York City,1962-05-01,30.7
+New York City,1962-06-01,30.8
+New York City,1962-07-01,30.9
+New York City,1962-08-01,31.0
+New York City,1962-09-01,31.2
+New York City,1962-10-01,31.2
+New York City,1962-11-01,31.1
+New York City,1962-12-01,31.1
+New York City,1963-01-01,31.2
+New York City,1963-02-01,31.3
+New York City,1963-03-01,31.3
+New York City,1963-04-01,31.4
+New York City,1963-05-01,31.3
+New York City,1963-06-01,31.6
+New York City,1963-07-01,31.8
+New York City,1963-08-01,31.8
+New York City,1963-09-01,31.8
+New York City,1963-10-01,31.8
+New York City,1963-11-01,31.9
+New York City,1963-12-01,32.0
+New York City,1964-01-01,31.9
+New York City,1964-02-01,32.0
+New York City,1964-03-01,32.0
+New York City,1964-04-01,32.0
+New York City,1964-05-01,32.0
+New York City,1964-06-01,32.0
+New York City,1964-07-01,32.1
+New York City,1964-08-01,32.1
+New York City,1964-09-01,32.2
+New York City,1964-10-01,32.2
+New York City,1964-11-01,32.3
+New York City,1964-12-01,32.3
+New York City,1965-01-01,32.2
+New York City,1965-02-01,32.3
+New York City,1965-03-01,32.3
+New York City,1965-04-01,32.4
+New York City,1965-05-01,32.5
+New York City,1965-06-01,32.6
+New York City,1965-07-01,32.7
+New York City,1965-08-01,32.7
+New York City,1965-09-01,32.8
+New York City,1965-10-01,32.9
+New York City,1965-11-01,32.9
+New York City,1965-12-01,33.0
+New York City,1966-01-01,33.0
+New York City,1966-02-01,33.2
+New York City,1966-03-01,33.4
+New York City,1966-04-01,33.5
+New York City,1966-05-01,33.5
+New York City,1966-06-01,33.5
+New York City,1966-07-01,33.8
+New York City,1966-08-01,33.9
+New York City,1966-09-01,34.1
+New York City,1966-10-01,34.2
+New York City,1966-11-01,34.2
+New York City,1966-12-01,34.2
+New York City,1967-01-01,34.1
+New York City,1967-02-01,34.3
+New York City,1967-03-01,34.3
+New York City,1967-04-01,34.3
+New York City,1967-05-01,34.4
+New York City,1967-06-01,34.5
+New York City,1967-07-01,34.6
+New York City,1967-08-01,34.7
+New York City,1967-09-01,34.8
+New York City,1967-10-01,34.9
+New York City,1967-11-01,35.0
+New York City,1967-12-01,35.1
+New York City,1968-01-01,35.1
+New York City,1968-02-01,35.3
+New York City,1968-03-01,35.5
+New York City,1968-04-01,35.6
+New York City,1968-05-01,35.7
+New York City,1968-06-01,35.9
+New York City,1968-07-01,36.1
+New York City,1968-08-01,36.4
+New York City,1968-09-01,36.6
+New York City,1968-10-01,36.8
+New York City,1968-11-01,36.9
+New York City,1968-12-01,37.0
+New York City,1969-01-01,37.2
+New York City,1969-02-01,37.3
+New York City,1969-03-01,37.7
+New York City,1969-04-01,37.9
+New York City,1969-05-01,38.0
+New York City,1969-06-01,38.3
+New York City,1969-07-01,38.4
+New York City,1969-08-01,38.5
+New York City,1969-09-01,38.8
+New York City,1969-10-01,39.0
+New York City,1969-11-01,39.1
+New York City,1969-12-01,39.5
+New York City,1970-01-01,39.8
+New York City,1970-02-01,40.2
+New York City,1970-03-01,40.4
+New York City,1970-04-01,40.7
+New York City,1970-05-01,40.9
+New York City,1970-06-01,41.2
+New York City,1970-07-01,41.3
+New York City,1970-08-01,41.4
+New York City,1970-09-01,41.7
+New York City,1970-10-01,41.9
+New York City,1970-11-01,42.0
+New York City,1970-12-01,42.3
+New York City,1971-01-01,42.4
+New York City,1971-02-01,42.7
+New York City,1971-03-01,43.0
+New York City,1971-04-01,43.1
+New York City,1971-05-01,43.3
+New York City,1971-06-01,43.6
+New York City,1971-07-01,43.9
+New York City,1971-08-01,43.9
+New York City,1971-09-01,44.0
+New York City,1971-10-01,44.1
+New York City,1971-11-01,44.1
+New York City,1971-12-01,44.3
+New York City,1972-01-01,44.5
+New York City,1972-02-01,44.8
+New York City,1972-03-01,45.0
+New York City,1972-04-01,45.1
+New York City,1972-05-01,45.2
+New York City,1972-06-01,45.3
+New York City,1972-07-01,45.5
+New York City,1972-08-01,45.6
+New York City,1972-09-01,46.0
+New York City,1972-10-01,46.1
+New York City,1972-11-01,46.1
+New York City,1972-12-01,46.2
+New York City,1973-01-01,46.3
+New York City,1973-02-01,46.7
+New York City,1973-03-01,47.2
+New York City,1973-04-01,47.6
+New York City,1973-05-01,47.8
+New York City,1973-06-01,48.1
+New York City,1973-07-01,48.2
+New York City,1973-08-01,49.0
+New York City,1973-09-01,49.2
+New York City,1973-10-01,49.5
+New York City,1973-11-01,50.0
+New York City,1973-12-01,50.5
+New York City,1974-01-01,50.8
+New York City,1974-02-01,51.6
+New York City,1974-03-01,52.2
+New York City,1974-04-01,52.2
+New York City,1974-05-01,52.8
+New York City,1974-06-01,53.2
+New York City,1974-07-01,53.4
+New York City,1974-08-01,54.3
+New York City,1974-09-01,54.9
+New York City,1974-10-01,55.4
+New York City,1974-11-01,55.7
+New York City,1974-12-01,56.0
+New York City,1975-01-01,56.0
+New York City,1975-02-01,56.5
+New York City,1975-03-01,56.5
+New York City,1975-04-01,56.6
+New York City,1975-05-01,56.8
+New York City,1975-06-01,57.1
+New York City,1975-07-01,57.6
+New York City,1975-08-01,57.9
+New York City,1975-09-01,58.6
+New York City,1975-10-01,58.8
+New York City,1975-11-01,59.3
+New York City,1975-12-01,59.6
+New York City,1976-01-01,59.7
+New York City,1976-02-01,60.0
+New York City,1976-03-01,60.2
+New York City,1976-04-01,60.3
+New York City,1976-05-01,60.5
+New York City,1976-06-01,60.9
+New York City,1976-07-01,61.1
+New York City,1976-08-01,61.4
+New York City,1976-09-01,61.8
+New York City,1976-10-01,61.9
+New York City,1976-11-01,61.9
+New York City,1976-12-01,62.2
+New York City,1977-01-01,62.4
+New York City,1977-02-01,63.0
+New York City,1977-03-01,63.3
+New York City,1977-04-01,63.5
+New York City,1977-05-01,63.9
+New York City,1977-06-01,64.4
+New York City,1977-07-01,64.5
+New York City,1977-08-01,64.8
+New York City,1977-09-01,64.8
+New York City,1977-10-01,64.9
+New York City,1977-11-01,65.2
+New York City,1977-12-01,65.3
+New York City,1978-01-01,65.7
+New York City,1978-02-01,66.0
+New York City,1978-03-01,66.5
+New York City,1978-04-01,66.9
+New York City,1978-05-01,67.3
+New York City,1978-06-01,68.0
+New York City,1978-07-01,68.1
+New York City,1978-08-01,68.4
+New York City,1978-09-01,68.8
+New York City,1978-10-01,69.3
+New York City,1978-11-01,69.5
+New York City,1978-12-01,69.7
+New York City,1979-01-01,70.2
+New York City,1979-02-01,71.0
+New York City,1979-03-01,71.4
+New York City,1979-04-01,72.1
+New York City,1979-05-01,72.8
+New York City,1979-06-01,73.5
+New York City,1979-07-01,74.0
+New York City,1979-08-01,74.5
+New York City,1979-09-01,75.4
+New York City,1979-10-01,76.1
+New York City,1979-11-01,76.6
+New York City,1979-12-01,77.1
+New York City,1980-01-01,78.2
+New York City,1980-02-01,78.9
+New York City,1980-03-01,80.0
+New York City,1980-04-01,80.6
+New York City,1980-05-01,81.1
+New York City,1980-06-01,82.1
+New York City,1980-07-01,82.6
+New York City,1980-08-01,83.3
+New York City,1980-09-01,83.6
+New York City,1980-10-01,84.1
+New York City,1980-11-01,84.6
+New York City,1980-12-01,85.5
+New York City,1981-01-01,86.3
+New York City,1981-02-01,87.4
+New York City,1981-03-01,87.8
+New York City,1981-04-01,88.3
+New York City,1981-05-01,88.8
+New York City,1981-06-01,89.5
+New York City,1981-07-01,90.8
+New York City,1981-08-01,91.6
+New York City,1981-09-01,93.0
+New York City,1981-10-01,92.7
+New York City,1981-11-01,92.6
+New York City,1981-12-01,92.7
+New York City,1982-01-01,92.9
+New York City,1982-02-01,93.1
+New York City,1982-03-01,92.5
+New York City,1982-04-01,92.8
+New York City,1982-05-01,93.7
+New York City,1982-06-01,95.7
+New York City,1982-07-01,95.9
+New York City,1982-08-01,96.3
+New York City,1982-09-01,97.1
+New York City,1982-10-01,98.4
+New York City,1982-11-01,98.1
+New York City,1982-12-01,97.5
+New York City,1983-01-01,97.8
+New York City,1983-02-01,98.0
+New York City,1983-03-01,98.1
+New York City,1983-04-01,99.1
+New York City,1983-05-01,99.4
+New York City,1983-06-01,99.7
+New York City,1983-07-01,100.0
+New York City,1983-08-01,100.1
+New York City,1983-09-01,101.0
+New York City,1983-10-01,101.3
+New York City,1983-11-01,101.7
+New York City,1983-12-01,101.8
+New York City,1984-01-01,102.8
+New York City,1984-02-01,103.4
+New York City,1984-03-01,103.7
+New York City,1984-04-01,104.1
+New York City,1984-05-01,104.1
+New York City,1984-06-01,104.3
+New York City,1984-07-01,104.8
+New York City,1984-08-01,105.5
+New York City,1984-09-01,106.2
+New York City,1984-10-01,106.1
+New York City,1984-11-01,106.5
+New York City,1984-12-01,106.5
+New York City,1985-01-01,106.7
+New York City,1985-02-01,107.3
+New York City,1985-03-01,107.5
+New York City,1985-04-01,107.9
+New York City,1985-05-01,108.1
+New York City,1985-06-01,108.3
+New York City,1985-07-01,108.4
+New York City,1985-08-01,109.2
+New York City,1985-09-01,109.6
+New York City,1985-10-01,109.8
+New York City,1985-11-01,110.7
+New York City,1985-12-01,111.0
+New York City,1986-01-01,111.8
+New York City,1986-02-01,111.5
+New York City,1986-03-01,111.5
+New York City,1986-04-01,111.2
+New York City,1986-05-01,110.9
+New York City,1986-06-01,111.7
+New York City,1986-07-01,112.5
+New York City,1986-08-01,112.7
+New York City,1986-09-01,113.0
+New York City,1986-10-01,113.4
+New York City,1986-11-01,113.3
+New York City,1986-12-01,113.8
+New York City,1987-01-01,114.7
+New York City,1987-02-01,115.3
+New York City,1987-03-01,115.8
+New York City,1987-04-01,116.6
+New York City,1987-05-01,117.3
+New York City,1987-06-01,117.8
+New York City,1987-07-01,117.9
+New York City,1987-08-01,118.9
+New York City,1987-09-01,119.8
+New York City,1987-10-01,120.2
+New York City,1987-11-01,120.5
+New York City,1987-12-01,120.6
+New York City,1988-01-01,121.3
+New York City,1988-02-01,121.1
+New York City,1988-03-01,121.5
+New York City,1988-04-01,122.6
+New York City,1988-05-01,122.7
+New York City,1988-06-01,123.1
+New York City,1988-07-01,123.6
+New York City,1988-08-01,124.2
+New York City,1988-09-01,126.0
+New York City,1988-10-01,126.2
+New York City,1988-11-01,125.9
+New York City,1988-12-01,126.0
+New York City,1989-01-01,127.0
+New York City,1989-02-01,127.6
+New York City,1989-03-01,128.9
+New York City,1989-04-01,129.5
+New York City,1989-05-01,130.2
+New York City,1989-06-01,130.5
+New York City,1989-07-01,130.6
+New York City,1989-08-01,130.9
+New York City,1989-09-01,132.2
+New York City,1989-10-01,132.8
+New York City,1989-11-01,133.2
+New York City,1989-12-01,133.3
+New York City,1990-01-01,135.1
+New York City,1990-02-01,135.3
+New York City,1990-03-01,136.6
+New York City,1990-04-01,137.3
+New York City,1990-05-01,137.2
+New York City,1990-06-01,137.1
+New York City,1990-07-01,138.4
+New York City,1990-08-01,140.0
+New York City,1990-09-01,140.8
+New York City,1990-10-01,141.6
+New York City,1990-11-01,141.5
+New York City,1990-12-01,141.6
+New York City,1991-01-01,143.0
+New York City,1991-02-01,143.6
+New York City,1991-03-01,143.4
+New York City,1991-04-01,143.7
+New York City,1991-05-01,144.0
+New York City,1991-06-01,144.6
+New York City,1991-07-01,145.2
+New York City,1991-08-01,145.4
+New York City,1991-09-01,145.8
+New York City,1991-10-01,145.7
+New York City,1991-11-01,146.6
+New York City,1991-12-01,146.6
+New York City,1992-01-01,147.3
+New York City,1992-02-01,148.0
+New York City,1992-03-01,149.1
+New York City,1992-04-01,149.2
+New York City,1992-05-01,148.9
+New York City,1992-06-01,149.5
+New York City,1992-07-01,149.9
+New York City,1992-08-01,150.8
+New York City,1992-09-01,151.4
+New York City,1992-10-01,152.1
+New York City,1992-11-01,152.2
+New York City,1992-12-01,151.9
+New York City,1993-01-01,153.0
+New York City,1993-02-01,153.6
+New York City,1993-03-01,154.1
+New York City,1993-04-01,154.0
+New York City,1993-05-01,153.8
+New York City,1993-06-01,154.2
+New York City,1993-07-01,154.3
+New York City,1993-08-01,155.3
+New York City,1993-09-01,155.3
+New York City,1993-10-01,155.5
+New York City,1993-11-01,155.4
+New York City,1993-12-01,155.6
+New York City,1994-01-01,156.0
+New York City,1994-02-01,157.4
+New York City,1994-03-01,157.9
+New York City,1994-04-01,157.7
+New York City,1994-05-01,157.3
+New York City,1994-06-01,157.8
+New York City,1994-07-01,158.2
+New York City,1994-08-01,159.1
+New York City,1994-09-01,159.0
+New York City,1994-10-01,159.5
+New York City,1994-11-01,159.4
+New York City,1994-12-01,158.9
+New York City,1995-01-01,159.9
+New York City,1995-02-01,160.3
+New York City,1995-03-01,160.9
+New York City,1995-04-01,161.4
+New York City,1995-05-01,161.8
+New York City,1995-06-01,162.2
+New York City,1995-07-01,162.3
+New York City,1995-08-01,162.8
+New York City,1995-09-01,163.2
+New York City,1995-10-01,163.6
+New York City,1995-11-01,163.8
+New York City,1995-12-01,163.7
+New York City,1996-01-01,164.8
+New York City,1996-02-01,165.7
+New York City,1996-03-01,166.5
+New York City,1996-04-01,166.0
+New York City,1996-05-01,166.4
+New York City,1996-06-01,166.5
+New York City,1996-07-01,166.7
+New York City,1996-08-01,167.2
+New York City,1996-09-01,168.2
+New York City,1996-10-01,168.2
+New York City,1996-11-01,168.4
+New York City,1996-12-01,168.5
+New York City,1997-01-01,169.1
+New York City,1997-02-01,170.1
+New York City,1997-03-01,170.7
+New York City,1997-04-01,170.2
+New York City,1997-05-01,169.9
+New York City,1997-06-01,170.3
+New York City,1997-07-01,170.8
+New York City,1997-08-01,170.8
+New York City,1997-09-01,171.7
+New York City,1997-10-01,172.3
+New York City,1997-11-01,172.0
+New York City,1997-12-01,171.9
+New York City,1998-01-01,172.1
+New York City,1998-02-01,172.7
+New York City,1998-03-01,173.0
+New York City,1998-04-01,173.0
+New York City,1998-05-01,173.0
+New York City,1998-06-01,173.1
+New York City,1998-07-01,173.6
+New York City,1998-08-01,174.2
+New York City,1998-09-01,174.4
+New York City,1998-10-01,174.8
+New York City,1998-11-01,174.7
+New York City,1998-12-01,174.7
+New York City,1999-01-01,175.0
+New York City,1999-02-01,175.1
+New York City,1999-03-01,175.5
+New York City,1999-04-01,176.0
+New York City,1999-05-01,176.1
+New York City,1999-06-01,176.8
+New York City,1999-07-01,177.2
+New York City,1999-08-01,177.6
+New York City,1999-09-01,178.2
+New York City,1999-10-01,178.9
+New York City,1999-11-01,178.8
+New York City,1999-12-01,178.6
+New York City,2000-01-01,179.3
+New York City,2000-02-01,180.5
+New York City,2000-03-01,181.5
+New York City,2000-04-01,181.4
+New York City,2000-05-01,181.4
+New York City,2000-06-01,182.0
+New York City,2000-07-01,182.8
+New York City,2000-08-01,183.1
+New York City,2000-09-01,184.4
+New York City,2000-10-01,184.6
+New York City,2000-11-01,184.6
+New York City,2000-12-01,184.2
+New York City,2001-01-01,184.9
+New York City,2001-02-01,185.3
+New York City,2001-03-01,186.4
+New York City,2001-04-01,186.6
+New York City,2001-05-01,187.3
+New York City,2001-06-01,188.3
+New York City,2001-07-01,187.8
+New York City,2001-08-01,188.1
+New York City,2001-09-01,188.0
+New York City,2001-10-01,187.8
+New York City,2001-11-01,187.8
+New York City,2001-12-01,187.3
+New York City,2002-01-01,188.5
+New York City,2002-02-01,189.9
+New York City,2002-03-01,191.1
+New York City,2002-04-01,191.8
+New York City,2002-05-01,191.4
+New York City,2002-06-01,191.5
+New York City,2002-07-01,192.0
+New York City,2002-08-01,193.1
+New York City,2002-09-01,193.3
+New York City,2002-10-01,193.7
+New York City,2002-11-01,193.4
+New York City,2002-12-01,193.1
+New York City,2003-01-01,194.7
+New York City,2003-02-01,196.2
+New York City,2003-03-01,197.1
+New York City,2003-04-01,196.7
+New York City,2003-05-01,196.8
+New York City,2003-06-01,196.9
+New York City,2003-07-01,197.7
+New York City,2003-08-01,199.1
+New York City,2003-09-01,199.6
+New York City,2003-10-01,200.0
+New York City,2003-11-01,199.4
+New York City,2003-12-01,199.3
+New York City,2004-01-01,199.9
+New York City,2004-02-01,201.1
+New York City,2004-03-01,203.4
+New York City,2004-04-01,204.0
+New York City,2004-05-01,204.4
+New York City,2004-06-01,206.0
+New York City,2004-07-01,205.5
+New York City,2004-08-01,205.7
+New York City,2004-09-01,205.9
+New York City,2004-10-01,207.3
+New York City,2004-11-01,207.2
+New York City,2004-12-01,206.8
+New York City,2005-01-01,208.1
+New York City,2005-02-01,208.9
+New York City,2005-03-01,212.4
+New York City,2005-04-01,212.5
+New York City,2005-05-01,211.4
+New York City,2005-06-01,210.7
+New York City,2005-07-01,212.5
+New York City,2005-08-01,214.1
+New York City,2005-09-01,215.8
+New York City,2005-10-01,216.6
+New York City,2005-11-01,215.3
+New York City,2005-12-01,214.2
+New York City,2006-01-01,215.9
+New York City,2006-02-01,216.4
+New York City,2006-03-01,218.2
+New York City,2006-04-01,220.2
+New York City,2006-05-01,221.6
+New York City,2006-06-01,222.6
+New York City,2006-07-01,223.1
+New York City,2006-08-01,224.1
+New York City,2006-09-01,222.9
+New York City,2006-10-01,221.7
+New York City,2006-11-01,220.9
+New York City,2006-12-01,221.3
+New York City,2007-01-01,221.767
+New York City,2007-02-01,223.066
+New York City,2007-03-01,224.551
+New York City,2007-04-01,225.78
+New York City,2007-05-01,227.146
+New York City,2007-06-01,228.258
+New York City,2007-07-01,228.628
+New York City,2007-08-01,228.326
+New York City,2007-09-01,228.308
+New York City,2007-10-01,228.552
+New York City,2007-11-01,229.504
+New York City,2007-12-01,229.395
+New York City,2008-01-01,229.869
+New York City,2008-02-01,231.02
+New York City,2008-03-01,233.122
+New York City,2008-04-01,233.822
+New York City,2008-05-01,236.151
+New York City,2008-06-01,238.58
+New York City,2008-07-01,240.273
+New York City,2008-08-01,240.55
+New York City,2008-09-01,240.089
+New York City,2008-10-01,238.403
+New York City,2008-11-01,234.498
+New York City,2008-12-01,233.012
+New York City,2009-01-01,233.402
+New York City,2009-02-01,234.663
+New York City,2009-03-01,235.067
+New York City,2009-04-01,235.582
+New York City,2009-05-01,235.975
+New York City,2009-06-01,237.172
+New York City,2009-07-01,237.6
+New York City,2009-08-01,238.282
+New York City,2009-09-01,238.568
+New York City,2009-10-01,238.38
+New York City,2009-11-01,238.777
+New York City,2009-12-01,238.427
+New York City,2010-01-01,238.97
+New York City,2010-02-01,238.862
+New York City,2010-03-01,240.101
+New York City,2010-04-01,240.529
+New York City,2010-05-01,241.075
+New York City,2010-06-01,240.817
+New York City,2010-07-01,241.147
+New York City,2010-08-01,241.569
+New York City,2010-09-01,241.485
+New York City,2010-10-01,241.981
+New York City,2010-11-01,241.96
+New York City,2010-12-01,241.874
+New York City,2011-01-01,242.639
+New York City,2011-02-01,243.832
+New York City,2011-03-01,245.617
+New York City,2011-04-01,246.489
+New York City,2011-05-01,248.073
+New York City,2011-06-01,248.505
+New York City,2011-07-01,249.164
+New York City,2011-08-01,250.058
+New York City,2011-09-01,250.559
+New York City,2011-10-01,250.051
+New York City,2011-11-01,249.317
+New York City,2011-12-01,248.307
+New York City,2012-01-01,249.322
+New York City,2012-02-01,250.285
+New York City,2012-03-01,251.887
+New York City,2012-04-01,252.349
+New York City,2012-05-01,252.652
+New York City,2012-06-01,252.406
+New York City,2012-07-01,252.016
+New York City,2012-08-01,253.472
+New York City,2012-09-01,254.554
+New York City,2012-10-01,254.277
+New York City,2012-11-01,254.285
+New York City,2012-12-01,253.555
+New York City,2013-01-01,254.807
+New York City,2013-02-01,256.234
+New York City,2013-03-01,256.589
+New York City,2013-04-01,255.967
+New York City,2013-05-01,256.27
+New York City,2013-06-01,256.911
+New York City,2013-07-01,257.326
+New York City,2013-08-01,257.659
+New York City,2013-09-01,258.504
+New York City,2013-10-01,257.069
+New York City,2013-11-01,257.377
+New York City,2013-12-01,257.284
+New York City,2014-01-01,259.596
+New York City,2014-02-01,259.019
+New York City,2014-03-01,259.971
+New York City,2014-04-01,259.985
+New York City,2014-05-01,261.225
+New York City,2014-06-01,261.35
+New York City,2014-07-01,261.498
+New York City,2014-08-01,261.075
+New York City,2014-09-01,261.074
+New York City,2014-10-01,260.5
+New York City,2014-11-01,259.382
+New York City,2014-12-01,258.08
+New York City,2015-01-01,258.376
+New York City,2015-02-01,259.24
+New York City,2015-03-01,259.647
+New York City,2015-04-01,259.959
+New York City,2015-05-01,261.066
+New York City,2015-06-01,261.512
+New York City,2015-07-01,261.199
+New York City,2015-08-01,261.347
+New York City,2015-09-01,261.887
+New York City,2015-10-01,261.515
+New York City,2015-11-01,261.009
+New York City,2015-12-01,259.941
+New York City,2016-01-01,260.342
+New York City,2016-02-01,260.875
+New York City,2016-03-01,261.508
+New York City,2016-04-01,262.619
+New York City,2016-05-01,263.312
+New York City,2016-06-01,263.877
+New York City,2016-07-01,263.722
+New York City,2016-08-01,264.16
+New York City,2016-09-01,264.602
+New York City,2016-10-01,264.738
+New York City,2016-11-01,265.203
+New York City,2016-12-01,265.421
+New York City,2017-01-01,266.917
+New York City,2017-02-01,267.662
+New York City,2017-03-01,267.582
+New York City,2017-04-01,267.948
+New York City,2017-05-01,268.183
+New York City,2017-06-01,268.666
+New York City,2017-07-01,268.051
+New York City,2017-08-01,268.657
+New York City,2017-09-01,270.059
+New York City,2017-10-01,269.575
+New York City,2017-11-01,269.381
+New York City,2017-12-01,269.564
+New York City,2018-01-01,270.771
+New York City,2018-02-01,272.214
+New York City,2018-03-01,272.196
+New York City,2018-04-01,272.95
+New York City,2018-05-01,274.001
+New York City,2018-06-01,274.17
+New York City,2018-07-01,274.073
+New York City,2018-08-01,274.441
+New York City,2018-09-01,275.455
+New York City,2018-10-01,275.101
+New York City,2018-11-01,274.478
+New York City,2018-12-01,273.836
+New York City,2019-01-01,275.144
+New York City,2019-02-01,275.823
+New York City,2019-03-01,276.57
+New York City,2019-04-01,277.441
+New York City,2019-05-01,278.068
+New York City,2019-06-01,278.802
+New York City,2019-07-01,278.817
+New York City,2019-08-01,279.428
+New York City,2019-09-01,279.338
+New York City,2019-10-01,279.255
+New York City,2019-11-01,279.468
+New York City,2019-12-01,279.816
+New York City,2020-01-01,282.02
+New York City,2020-02-01,282.577
+New York City,2020-03-01,281.975
+New York City,2020-04-01,280.623
+New York City,2020-05-01,282.092
+New York City,2020-06-01,282.333
+New York City,2020-07-01,283.624
+New York City,2020-08-01,283.478
+New York City,2020-09-01,284.551
+New York City,2020-10-01,284.121
+New York City,2020-11-01,283.291
+New York City,2020-12-01,284.35
+New York City,2021-01-01,285.525
+New York City,2021-02-01,286.474
+New York City,2021-03-01,287.481
+New York City,2021-04-01,289.493
+New York City,2021-05-01,290.991
+New York City,2021-06-01,293.872
+New York City,2021-07-01,293.553
+New York City,2021-08-01,293.927
+New York City,2021-09-01,295.488
+New York City,2021-10-01,296.472
+New York City,2021-11-01,297.49
+New York City,2021-12-01,296.865
+New York City,2022-01-01,300.164
+New York City,2022-02-01,301.151
+New York City,2022-03-01,305.024
+New York City,2022-04-01,307.781
+New York City,2022-05-01,309.243
+New York City,2022-06-01,313.589
+New York City,2022-07-01,312.615
+New York City,2022-08-01,313.28
+New York City,2022-09-01,313.88
+New York City,2022-10-01,314.338
+New York City,2022-11-01,314.975
+New York City,2022-12-01,315.656
+New York City,2023-01-01,318.151
+New York City,2023-02-01,319.295
+New York City,2023-03-01,319.038
+New York City,2023-04-01,319.211
+New York City,2023-05-01,320.002
+New York City,2023-06-01,321.29
+New York City,2023-07-01,322.496
+New York City,2023-08-01,324.38
+New York City,2023-09-01,325.613
+New York City,2023-10-01,325.288
+Philadelphia,1914-12-01,10.2
+Philadelphia,1915-12-01,10.3
+Philadelphia,1916-12-01,11.6
+Philadelphia,1917-12-01,14.1
+Philadelphia,1918-12-01,17.0
+Philadelphia,1919-06-01,17.5
+Philadelphia,1919-12-01,19.2
+Philadelphia,1920-06-01,21.3
+Philadelphia,1920-12-01,19.9
+Philadelphia,1921-05-01,18.1
+Philadelphia,1921-09-01,17.9
+Philadelphia,1921-12-01,17.7
+Philadelphia,1922-03-01,17.3
+Philadelphia,1922-06-01,17.3
+Philadelphia,1922-09-01,16.9
+Philadelphia,1922-12-01,17.3
+Philadelphia,1923-03-01,17.3
+Philadelphia,1923-06-01,17.6
+Philadelphia,1923-09-01,17.8
+Philadelphia,1923-12-01,17.8
+Philadelphia,1924-03-01,17.6
+Philadelphia,1924-06-01,17.7
+Philadelphia,1924-09-01,17.6
+Philadelphia,1924-12-01,18.0
+Philadelphia,1925-06-01,18.4
+Philadelphia,1925-12-01,18.9
+Philadelphia,1926-06-01,18.8
+Philadelphia,1926-12-01,18.7
+Philadelphia,1927-06-01,18.5
+Philadelphia,1927-12-01,18.3
+Philadelphia,1928-06-01,18.1
+Philadelphia,1928-12-01,17.8
+Philadelphia,1929-06-01,17.8
+Philadelphia,1929-12-01,17.9
+Philadelphia,1930-06-01,17.5
+Philadelphia,1930-12-01,16.8
+Philadelphia,1931-06-01,15.9
+Philadelphia,1931-12-01,15.3
+Philadelphia,1932-06-01,14.2
+Philadelphia,1932-12-01,13.5
+Philadelphia,1933-06-01,13.2
+Philadelphia,1933-12-01,13.8
+Philadelphia,1934-06-01,14.2
+Philadelphia,1934-11-01,14.1
+Philadelphia,1935-03-01,14.2
+Philadelphia,1935-07-01,14.2
+Philadelphia,1935-10-01,14.4
+Philadelphia,1936-01-01,14.5
+Philadelphia,1936-04-01,14.4
+Philadelphia,1936-07-01,14.5
+Philadelphia,1936-09-01,14.6
+Philadelphia,1936-12-01,14.6
+Philadelphia,1937-03-01,14.8
+Philadelphia,1937-06-01,14.9
+Philadelphia,1937-09-01,15.1
+Philadelphia,1937-12-01,14.7
+Philadelphia,1938-03-01,14.5
+Philadelphia,1938-06-01,14.6
+Philadelphia,1938-09-01,14.5
+Philadelphia,1938-12-01,14.4
+Philadelphia,1939-03-01,14.2
+Philadelphia,1939-06-01,14.2
+Philadelphia,1939-09-01,14.5
+Philadelphia,1939-12-01,14.3
+Philadelphia,1940-03-01,14.3
+Philadelphia,1940-06-01,14.4
+Philadelphia,1940-09-01,14.3
+Philadelphia,1940-10-01,14.3
+Philadelphia,1940-11-01,14.3
+Philadelphia,1940-12-01,14.4
+Philadelphia,1941-01-01,14.4
+Philadelphia,1941-02-01,14.4
+Philadelphia,1941-03-01,14.5
+Philadelphia,1941-04-01,14.6
+Philadelphia,1941-05-01,14.7
+Philadelphia,1941-06-01,15.0
+Philadelphia,1941-07-01,15.0
+Philadelphia,1941-08-01,15.2
+Philadelphia,1941-09-01,15.5
+Philadelphia,1941-10-01,15.7
+Philadelphia,1941-11-01,15.7
+Philadelphia,1941-12-01,15.8
+Philadelphia,1942-01-01,16.1
+Philadelphia,1942-02-01,16.1
+Philadelphia,1942-03-01,16.3
+Philadelphia,1942-04-01,16.5
+Philadelphia,1942-05-01,16.6
+Philadelphia,1942-06-01,16.7
+Philadelphia,1942-07-01,16.9
+Philadelphia,1942-08-01,16.9
+Philadelphia,1942-09-01,17.0
+Philadelphia,1942-10-01,17.1
+Philadelphia,1942-11-01,17.2
+Philadelphia,1942-12-01,17.4
+Philadelphia,1943-01-01,17.4
+Philadelphia,1943-02-01,17.4
+Philadelphia,1943-03-01,17.6
+Philadelphia,1943-04-01,18.0
+Philadelphia,1943-05-01,18.1
+Philadelphia,1943-06-01,18.0
+Philadelphia,1943-07-01,17.8
+Philadelphia,1943-08-01,17.8
+Philadelphia,1943-09-01,17.8
+Philadelphia,1943-10-01,17.9
+Philadelphia,1943-11-01,17.9
+Philadelphia,1943-12-01,17.9
+Philadelphia,1944-01-01,17.9
+Philadelphia,1944-02-01,17.9
+Philadelphia,1944-03-01,17.8
+Philadelphia,1944-04-01,17.9
+Philadelphia,1944-05-01,18.0
+Philadelphia,1944-06-01,18.1
+Philadelphia,1944-07-01,18.1
+Philadelphia,1944-08-01,18.2
+Philadelphia,1944-09-01,18.2
+Philadelphia,1944-10-01,18.1
+Philadelphia,1944-11-01,18.1
+Philadelphia,1944-12-01,18.2
+Philadelphia,1945-01-01,18.3
+Philadelphia,1945-02-01,18.4
+Philadelphia,1945-03-01,18.3
+Philadelphia,1945-04-01,18.3
+Philadelphia,1945-05-01,18.5
+Philadelphia,1945-06-01,18.6
+Philadelphia,1945-07-01,18.7
+Philadelphia,1945-08-01,18.7
+Philadelphia,1945-09-01,18.6
+Philadelphia,1945-10-01,18.6
+Philadelphia,1945-11-01,18.6
+Philadelphia,1945-12-01,18.7
+Philadelphia,1946-01-01,18.7
+Philadelphia,1946-02-01,18.7
+Philadelphia,1946-03-01,18.8
+Philadelphia,1946-04-01,18.9
+Philadelphia,1946-05-01,19.0
+Philadelphia,1946-06-01,19.2
+Philadelphia,1946-07-01,20.3
+Philadelphia,1946-08-01,20.9
+Philadelphia,1946-09-01,21.2
+Philadelphia,1946-10-01,21.5
+Philadelphia,1946-11-01,21.9
+Philadelphia,1946-12-01,22.2
+Philadelphia,1947-01-01,22.1
+Philadelphia,1947-02-01,22.0
+Philadelphia,1947-03-01,22.7
+Philadelphia,1947-04-01,22.5
+Philadelphia,1947-05-01,22.5
+Philadelphia,1947-06-01,22.8
+Philadelphia,1947-07-01,23.0
+Philadelphia,1947-08-01,23.2
+Philadelphia,1947-09-01,23.7
+Philadelphia,1947-10-01,23.6
+Philadelphia,1947-11-01,23.8
+Philadelphia,1947-12-01,24.2
+Philadelphia,1948-01-01,24.4
+Philadelphia,1948-02-01,24.2
+Philadelphia,1948-03-01,24.0
+Philadelphia,1948-04-01,24.6
+Philadelphia,1948-05-01,24.8
+Philadelphia,1948-06-01,25.0
+Philadelphia,1948-07-01,25.1
+Philadelphia,1948-08-01,25.4
+Philadelphia,1948-09-01,25.4
+Philadelphia,1948-10-01,25.3
+Philadelphia,1948-11-01,25.0
+Philadelphia,1948-12-01,24.8
+Philadelphia,1949-01-01,24.6
+Philadelphia,1949-02-01,24.5
+Philadelphia,1949-03-01,24.6
+Philadelphia,1949-04-01,24.6
+Philadelphia,1949-05-01,24.7
+Philadelphia,1949-06-01,24.6
+Philadelphia,1949-07-01,24.4
+Philadelphia,1949-08-01,24.5
+Philadelphia,1949-09-01,24.6
+Philadelphia,1949-10-01,24.6
+Philadelphia,1949-11-01,24.5
+Philadelphia,1949-12-01,24.3
+Philadelphia,1950-01-01,24.1
+Philadelphia,1950-02-01,24.1
+Philadelphia,1950-03-01,24.2
+Philadelphia,1950-04-01,24.2
+Philadelphia,1950-05-01,24.3
+Philadelphia,1950-06-01,24.5
+Philadelphia,1950-07-01,24.7
+Philadelphia,1950-08-01,24.9
+Philadelphia,1950-09-01,25.1
+Philadelphia,1950-10-01,25.2
+Philadelphia,1950-11-01,25.2
+Philadelphia,1950-12-01,25.8
+Philadelphia,1951-01-01,26.3
+Philadelphia,1951-02-01,26.9
+Philadelphia,1951-03-01,26.9
+Philadelphia,1951-04-01,27.0
+Philadelphia,1951-05-01,27.0
+Philadelphia,1951-06-01,26.9
+Philadelphia,1951-07-01,26.9
+Philadelphia,1951-08-01,26.9
+Philadelphia,1951-09-01,27.0
+Philadelphia,1951-10-01,27.1
+Philadelphia,1951-11-01,27.4
+Philadelphia,1951-12-01,27.4
+Philadelphia,1952-01-01,27.4
+Philadelphia,1952-02-01,27.1
+Philadelphia,1952-03-01,27.2
+Philadelphia,1952-04-01,27.3
+Philadelphia,1952-05-01,27.3
+Philadelphia,1952-06-01,27.4
+Philadelphia,1952-07-01,27.7
+Philadelphia,1952-08-01,27.7
+Philadelphia,1952-09-01,27.7
+Philadelphia,1952-10-01,27.7
+Philadelphia,1952-11-01,27.7
+Philadelphia,1952-12-01,27.7
+Philadelphia,1953-01-01,27.6
+Philadelphia,1953-02-01,27.4
+Philadelphia,1953-03-01,27.5
+Philadelphia,1953-04-01,27.4
+Philadelphia,1953-05-01,27.5
+Philadelphia,1953-06-01,27.7
+Philadelphia,1953-07-01,27.7
+Philadelphia,1953-08-01,27.7
+Philadelphia,1953-09-01,27.8
+Philadelphia,1953-10-01,27.8
+Philadelphia,1953-11-01,27.7
+Philadelphia,1953-12-01,27.7
+Philadelphia,1954-01-01,27.8
+Philadelphia,1954-02-01,27.8
+Philadelphia,1954-03-01,27.7
+Philadelphia,1954-04-01,27.8
+Philadelphia,1954-05-01,27.8
+Philadelphia,1954-06-01,28.0
+Philadelphia,1954-07-01,28.1
+Philadelphia,1954-08-01,28.0
+Philadelphia,1954-09-01,28.0
+Philadelphia,1954-10-01,28.0
+Philadelphia,1954-11-01,28.0
+Philadelphia,1954-12-01,27.9
+Philadelphia,1955-01-01,27.9
+Philadelphia,1955-02-01,27.9
+Philadelphia,1955-03-01,27.9
+Philadelphia,1955-04-01,27.9
+Philadelphia,1955-05-01,27.9
+Philadelphia,1955-06-01,27.9
+Philadelphia,1955-07-01,27.9
+Philadelphia,1955-08-01,27.9
+Philadelphia,1955-09-01,27.8
+Philadelphia,1955-10-01,27.8
+Philadelphia,1955-11-01,27.7
+Philadelphia,1955-12-01,27.7
+Philadelphia,1956-01-01,27.7
+Philadelphia,1956-02-01,27.7
+Philadelphia,1956-03-01,27.9
+Philadelphia,1956-04-01,28.0
+Philadelphia,1956-05-01,28.0
+Philadelphia,1956-06-01,28.2
+Philadelphia,1956-07-01,28.5
+Philadelphia,1956-08-01,28.5
+Philadelphia,1956-09-01,28.6
+Philadelphia,1956-10-01,28.6
+Philadelphia,1956-11-01,28.5
+Philadelphia,1956-12-01,28.6
+Philadelphia,1957-01-01,28.7
+Philadelphia,1957-02-01,28.9
+Philadelphia,1957-03-01,28.9
+Philadelphia,1957-04-01,28.9
+Philadelphia,1957-05-01,28.9
+Philadelphia,1957-06-01,29.0
+Philadelphia,1957-07-01,29.2
+Philadelphia,1957-08-01,29.4
+Philadelphia,1957-09-01,29.4
+Philadelphia,1957-10-01,29.4
+Philadelphia,1957-11-01,29.5
+Philadelphia,1957-12-01,29.5
+Philadelphia,1958-01-01,29.5
+Philadelphia,1958-02-01,29.5
+Philadelphia,1958-03-01,29.7
+Philadelphia,1958-04-01,29.7
+Philadelphia,1958-05-01,29.7
+Philadelphia,1958-06-01,29.7
+Philadelphia,1958-07-01,29.8
+Philadelphia,1958-08-01,29.8
+Philadelphia,1958-09-01,29.8
+Philadelphia,1958-10-01,29.8
+Philadelphia,1958-11-01,29.8
+Philadelphia,1958-12-01,29.8
+Philadelphia,1959-01-01,29.8
+Philadelphia,1959-02-01,29.8
+Philadelphia,1959-03-01,29.8
+Philadelphia,1959-04-01,29.8
+Philadelphia,1959-05-01,29.7
+Philadelphia,1959-06-01,29.9
+Philadelphia,1959-07-01,30.0
+Philadelphia,1959-08-01,30.0
+Philadelphia,1959-09-01,30.4
+Philadelphia,1959-10-01,30.4
+Philadelphia,1959-11-01,30.5
+Philadelphia,1959-12-01,30.5
+Philadelphia,1960-01-01,30.3
+Philadelphia,1960-02-01,30.3
+Philadelphia,1960-03-01,30.4
+Philadelphia,1960-04-01,30.5
+Philadelphia,1960-05-01,30.5
+Philadelphia,1960-06-01,30.5
+Philadelphia,1960-07-01,30.6
+Philadelphia,1960-08-01,30.6
+Philadelphia,1960-09-01,30.7
+Philadelphia,1960-10-01,30.8
+Philadelphia,1960-11-01,30.9
+Philadelphia,1960-12-01,30.9
+Philadelphia,1961-01-01,30.8
+Philadelphia,1961-02-01,30.9
+Philadelphia,1961-03-01,30.8
+Philadelphia,1961-04-01,30.9
+Philadelphia,1961-05-01,30.9
+Philadelphia,1961-06-01,30.8
+Philadelphia,1961-07-01,31.0
+Philadelphia,1961-08-01,30.9
+Philadelphia,1961-09-01,31.0
+Philadelphia,1961-10-01,31.0
+Philadelphia,1961-11-01,31.1
+Philadelphia,1961-12-01,31.0
+Philadelphia,1962-01-01,31.0
+Philadelphia,1962-02-01,31.1
+Philadelphia,1962-03-01,31.1
+Philadelphia,1962-04-01,31.2
+Philadelphia,1962-05-01,31.0
+Philadelphia,1962-06-01,31.1
+Philadelphia,1962-07-01,31.2
+Philadelphia,1962-08-01,31.2
+Philadelphia,1962-09-01,31.4
+Philadelphia,1962-10-01,31.4
+Philadelphia,1962-11-01,31.4
+Philadelphia,1962-12-01,31.3
+Philadelphia,1963-01-01,31.4
+Philadelphia,1963-02-01,31.5
+Philadelphia,1963-03-01,31.5
+Philadelphia,1963-04-01,31.5
+Philadelphia,1963-05-01,31.5
+Philadelphia,1963-06-01,31.8
+Philadelphia,1963-07-01,31.8
+Philadelphia,1963-08-01,31.8
+Philadelphia,1963-09-01,31.9
+Philadelphia,1963-10-01,32.1
+Philadelphia,1963-11-01,32.1
+Philadelphia,1963-12-01,32.2
+Philadelphia,1964-01-01,32.2
+Philadelphia,1964-02-01,32.2
+Philadelphia,1964-03-01,32.1
+Philadelphia,1964-04-01,32.1
+Philadelphia,1964-05-01,32.1
+Philadelphia,1964-06-01,32.2
+Philadelphia,1964-07-01,32.3
+Philadelphia,1964-08-01,32.2
+Philadelphia,1964-09-01,32.3
+Philadelphia,1964-10-01,32.4
+Philadelphia,1964-11-01,32.5
+Philadelphia,1964-12-01,32.5
+Philadelphia,1965-01-01,32.5
+Philadelphia,1965-02-01,32.6
+Philadelphia,1965-03-01,32.6
+Philadelphia,1965-04-01,32.5
+Philadelphia,1965-05-01,32.6
+Philadelphia,1965-06-01,32.8
+Philadelphia,1965-07-01,32.9
+Philadelphia,1965-08-01,32.8
+Philadelphia,1965-09-01,32.8
+Philadelphia,1965-10-01,32.9
+Philadelphia,1965-11-01,33.0
+Philadelphia,1965-12-01,33.1
+Philadelphia,1966-01-01,33.1
+Philadelphia,1966-02-01,33.3
+Philadelphia,1966-03-01,33.4
+Philadelphia,1966-04-01,33.5
+Philadelphia,1966-05-01,33.5
+Philadelphia,1966-06-01,33.6
+Philadelphia,1966-07-01,33.7
+Philadelphia,1966-08-01,33.9
+Philadelphia,1966-09-01,34.0
+Philadelphia,1966-10-01,34.1
+Philadelphia,1966-11-01,34.1
+Philadelphia,1966-12-01,34.2
+Philadelphia,1967-01-01,34.1
+Philadelphia,1967-02-01,34.2
+Philadelphia,1967-03-01,34.2
+Philadelphia,1967-04-01,34.3
+Philadelphia,1967-05-01,34.4
+Philadelphia,1967-06-01,34.5
+Philadelphia,1967-07-01,34.6
+Philadelphia,1967-08-01,34.8
+Philadelphia,1967-09-01,34.9
+Philadelphia,1967-10-01,35.1
+Philadelphia,1967-11-01,35.1
+Philadelphia,1967-12-01,35.2
+Philadelphia,1968-01-01,35.4
+Philadelphia,1968-02-01,35.6
+Philadelphia,1968-03-01,35.8
+Philadelphia,1968-04-01,35.9
+Philadelphia,1968-05-01,36.0
+Philadelphia,1968-06-01,36.2
+Philadelphia,1968-07-01,36.3
+Philadelphia,1968-08-01,36.4
+Philadelphia,1968-09-01,36.7
+Philadelphia,1968-10-01,36.9
+Philadelphia,1968-11-01,37.0
+Philadelphia,1968-12-01,37.1
+Philadelphia,1969-01-01,37.1
+Philadelphia,1969-02-01,37.3
+Philadelphia,1969-03-01,37.6
+Philadelphia,1969-04-01,37.8
+Philadelphia,1969-05-01,37.8
+Philadelphia,1969-06-01,38.0
+Philadelphia,1969-07-01,38.3
+Philadelphia,1969-08-01,38.6
+Philadelphia,1969-09-01,38.8
+Philadelphia,1969-10-01,38.9
+Philadelphia,1969-11-01,39.0
+Philadelphia,1969-12-01,39.2
+Philadelphia,1970-01-01,39.4
+Philadelphia,1970-02-01,39.8
+Philadelphia,1970-03-01,40.1
+Philadelphia,1970-04-01,40.2
+Philadelphia,1970-05-01,40.5
+Philadelphia,1970-06-01,40.6
+Philadelphia,1970-07-01,40.7
+Philadelphia,1970-08-01,40.9
+Philadelphia,1970-09-01,41.4
+Philadelphia,1970-10-01,41.7
+Philadelphia,1970-11-01,41.9
+Philadelphia,1970-12-01,42.0
+Philadelphia,1971-01-01,42.0
+Philadelphia,1971-02-01,42.2
+Philadelphia,1971-03-01,42.3
+Philadelphia,1971-04-01,42.4
+Philadelphia,1971-05-01,42.7
+Philadelphia,1971-06-01,43.0
+Philadelphia,1971-07-01,42.8
+Philadelphia,1971-08-01,42.8
+Philadelphia,1971-09-01,43.1
+Philadelphia,1971-10-01,43.3
+Philadelphia,1971-11-01,43.2
+Philadelphia,1971-12-01,43.3
+Philadelphia,1972-01-01,43.2
+Philadelphia,1972-02-01,43.3
+Philadelphia,1972-03-01,43.5
+Philadelphia,1972-04-01,43.6
+Philadelphia,1972-05-01,43.6
+Philadelphia,1972-06-01,43.8
+Philadelphia,1972-07-01,44.0
+Philadelphia,1972-08-01,44.1
+Philadelphia,1972-09-01,44.4
+Philadelphia,1972-10-01,44.5
+Philadelphia,1972-11-01,44.7
+Philadelphia,1972-12-01,44.6
+Philadelphia,1973-01-01,44.7
+Philadelphia,1973-02-01,45.2
+Philadelphia,1973-03-01,45.9
+Philadelphia,1973-04-01,46.2
+Philadelphia,1973-05-01,46.4
+Philadelphia,1973-06-01,46.6
+Philadelphia,1973-07-01,46.7
+Philadelphia,1973-08-01,47.5
+Philadelphia,1973-09-01,47.8
+Philadelphia,1973-10-01,48.3
+Philadelphia,1973-11-01,48.6
+Philadelphia,1973-12-01,48.9
+Philadelphia,1974-01-01,49.4
+Philadelphia,1974-02-01,50.2
+Philadelphia,1974-03-01,50.9
+Philadelphia,1974-04-01,51.3
+Philadelphia,1974-05-01,51.7
+Philadelphia,1974-06-01,52.2
+Philadelphia,1974-07-01,52.5
+Philadelphia,1974-08-01,53.1
+Philadelphia,1974-09-01,53.9
+Philadelphia,1974-10-01,54.4
+Philadelphia,1974-11-01,54.9
+Philadelphia,1974-12-01,55.1
+Philadelphia,1975-01-01,55.2
+Philadelphia,1975-02-01,55.5
+Philadelphia,1975-03-01,55.8
+Philadelphia,1975-04-01,55.8
+Philadelphia,1975-05-01,56.1
+Philadelphia,1975-06-01,56.6
+Philadelphia,1975-07-01,57.1
+Philadelphia,1975-08-01,57.3
+Philadelphia,1975-09-01,57.8
+Philadelphia,1975-10-01,58.2
+Philadelphia,1975-11-01,58.3
+Philadelphia,1975-12-01,58.3
+Philadelphia,1976-01-01,58.5
+Philadelphia,1976-02-01,58.7
+Philadelphia,1976-03-01,58.7
+Philadelphia,1976-04-01,58.9
+Philadelphia,1976-05-01,59.2
+Philadelphia,1976-06-01,59.5
+Philadelphia,1976-07-01,59.8
+Philadelphia,1976-08-01,59.9
+Philadelphia,1976-09-01,60.4
+Philadelphia,1976-10-01,60.6
+Philadelphia,1976-11-01,60.8
+Philadelphia,1976-12-01,60.7
+Philadelphia,1977-01-01,61.2
+Philadelphia,1977-02-01,61.9
+Philadelphia,1977-03-01,62.4
+Philadelphia,1977-04-01,63.0
+Philadelphia,1977-05-01,63.4
+Philadelphia,1977-06-01,63.6
+Philadelphia,1977-07-01,64.0
+Philadelphia,1977-08-01,64.0
+Philadelphia,1977-09-01,64.6
+Philadelphia,1977-10-01,64.7
+Philadelphia,1977-11-01,64.9
+Philadelphia,1977-12-01,64.7
+Philadelphia,1978-01-01,64.9
+Philadelphia,1978-02-01,65.1
+Philadelphia,1978-03-01,65.6
+Philadelphia,1978-04-01,66.0
+Philadelphia,1978-05-01,66.4
+Philadelphia,1978-06-01,67.1
+Philadelphia,1978-07-01,67.9
+Philadelphia,1978-08-01,68.0
+Philadelphia,1978-09-01,68.5
+Philadelphia,1978-10-01,68.7
+Philadelphia,1978-11-01,69.1
+Philadelphia,1978-12-01,69.6
+Philadelphia,1979-01-01,70.0
+Philadelphia,1979-02-01,70.6
+Philadelphia,1979-03-01,70.9
+Philadelphia,1979-04-01,71.9
+Philadelphia,1979-05-01,72.9
+Philadelphia,1979-06-01,74.0
+Philadelphia,1979-07-01,74.8
+Philadelphia,1979-08-01,75.4
+Philadelphia,1979-09-01,76.0
+Philadelphia,1979-10-01,76.2
+Philadelphia,1979-11-01,77.0
+Philadelphia,1979-12-01,77.4
+Philadelphia,1980-01-01,78.6
+Philadelphia,1980-02-01,80.0
+Philadelphia,1980-03-01,81.2
+Philadelphia,1980-04-01,82.2
+Philadelphia,1980-05-01,82.9
+Philadelphia,1980-06-01,83.9
+Philadelphia,1980-07-01,84.5
+Philadelphia,1980-08-01,85.2
+Philadelphia,1980-09-01,85.6
+Philadelphia,1980-10-01,85.8
+Philadelphia,1980-11-01,86.3
+Philadelphia,1980-12-01,86.7
+Philadelphia,1981-01-01,87.6
+Philadelphia,1981-02-01,88.6
+Philadelphia,1981-03-01,89.4
+Philadelphia,1981-04-01,90.3
+Philadelphia,1981-05-01,90.7
+Philadelphia,1981-06-01,91.9
+Philadelphia,1981-07-01,92.7
+Philadelphia,1981-08-01,93.6
+Philadelphia,1981-09-01,95.0
+Philadelphia,1981-10-01,95.1
+Philadelphia,1981-11-01,94.9
+Philadelphia,1981-12-01,95.2
+Philadelphia,1982-01-01,95.4
+Philadelphia,1982-02-01,95.4
+Philadelphia,1982-03-01,95.1
+Philadelphia,1982-04-01,95.2
+Philadelphia,1982-05-01,95.2
+Philadelphia,1982-06-01,96.8
+Philadelphia,1982-07-01,97.3
+Philadelphia,1982-08-01,97.4
+Philadelphia,1982-09-01,98.0
+Philadelphia,1982-10-01,97.5
+Philadelphia,1982-11-01,97.9
+Philadelphia,1982-12-01,97.5
+Philadelphia,1983-01-01,97.6
+Philadelphia,1983-02-01,97.6
+Philadelphia,1983-03-01,98.0
+Philadelphia,1983-04-01,98.1
+Philadelphia,1983-05-01,98.4
+Philadelphia,1983-06-01,99.0
+Philadelphia,1983-07-01,99.8
+Philadelphia,1983-08-01,100.3
+Philadelphia,1983-09-01,100.9
+Philadelphia,1983-10-01,100.8
+Philadelphia,1983-11-01,101.0
+Philadelphia,1983-12-01,101.0
+Philadelphia,1984-01-01,101.9
+Philadelphia,1984-02-01,102.6
+Philadelphia,1984-03-01,102.7
+Philadelphia,1984-04-01,103.2
+Philadelphia,1984-05-01,103.4
+Philadelphia,1984-06-01,103.8
+Philadelphia,1984-07-01,104.3
+Philadelphia,1984-08-01,104.8
+Philadelphia,1984-09-01,105.2
+Philadelphia,1984-10-01,105.1
+Philadelphia,1984-11-01,105.9
+Philadelphia,1984-12-01,105.6
+Philadelphia,1985-01-01,106.0
+Philadelphia,1985-02-01,107.0
+Philadelphia,1985-03-01,107.4
+Philadelphia,1985-04-01,108.1
+Philadelphia,1985-05-01,108.8
+Philadelphia,1985-06-01,108.8
+Philadelphia,1985-07-01,109.2
+Philadelphia,1985-08-01,109.3
+Philadelphia,1985-09-01,109.6
+Philadelphia,1985-10-01,109.9
+Philadelphia,1985-11-01,110.4
+Philadelphia,1985-12-01,110.7
+Philadelphia,1986-01-01,110.9
+Philadelphia,1986-02-01,110.8
+Philadelphia,1986-03-01,110.5
+Philadelphia,1986-04-01,110.0
+Philadelphia,1986-05-01,110.4
+Philadelphia,1986-06-01,111.4
+Philadelphia,1986-07-01,111.8
+Philadelphia,1986-08-01,111.8
+Philadelphia,1986-09-01,112.8
+Philadelphia,1986-10-01,112.4
+Philadelphia,1986-11-01,112.2
+Philadelphia,1986-12-01,112.6
+Philadelphia,1987-01-01,113.4
+Philadelphia,1987-02-01,113.9
+Philadelphia,1987-03-01,114.0
+Philadelphia,1987-04-01,115.5
+Philadelphia,1987-05-01,116.4
+Philadelphia,1987-06-01,117.4
+Philadelphia,1987-07-01,117.4
+Philadelphia,1987-08-01,118.4
+Philadelphia,1987-09-01,118.7
+Philadelphia,1987-10-01,119.1
+Philadelphia,1987-11-01,118.6
+Philadelphia,1987-12-01,118.9
+Philadelphia,1988-01-01,119.3
+Philadelphia,1988-02-01,119.3
+Philadelphia,1988-03-01,119.6
+Philadelphia,1988-04-01,120.0
+Philadelphia,1988-05-01,120.9
+Philadelphia,1988-06-01,121.9
+Philadelphia,1988-07-01,123.2
+Philadelphia,1988-08-01,123.9
+Philadelphia,1988-09-01,125.2
+Philadelphia,1988-10-01,124.6
+Philadelphia,1988-11-01,125.3
+Philadelphia,1988-12-01,125.6
+Philadelphia,1989-01-01,125.7
+Philadelphia,1989-02-01,125.4
+Philadelphia,1989-03-01,126.0
+Philadelphia,1989-04-01,126.7
+Philadelphia,1989-05-01,127.9
+Philadelphia,1989-06-01,128.8
+Philadelphia,1989-07-01,129.3
+Philadelphia,1989-08-01,129.1
+Philadelphia,1989-09-01,130.2
+Philadelphia,1989-10-01,130.5
+Philadelphia,1989-11-01,130.1
+Philadelphia,1989-12-01,129.9
+Philadelphia,1990-01-01,131.2
+Philadelphia,1990-02-01,132.2
+Philadelphia,1990-03-01,133.6
+Philadelphia,1990-04-01,134.3
+Philadelphia,1990-05-01,134.6
+Philadelphia,1990-06-01,135.1
+Philadelphia,1990-07-01,136.3
+Philadelphia,1990-08-01,137.3
+Philadelphia,1990-09-01,138.2
+Philadelphia,1990-10-01,138.8
+Philadelphia,1990-11-01,139.1
+Philadelphia,1990-12-01,139.4
+Philadelphia,1991-01-01,140.4
+Philadelphia,1991-02-01,140.6
+Philadelphia,1991-03-01,141.0
+Philadelphia,1991-04-01,140.8
+Philadelphia,1991-05-01,141.3
+Philadelphia,1991-06-01,141.8
+Philadelphia,1991-07-01,142.4
+Philadelphia,1991-08-01,143.3
+Philadelphia,1991-09-01,143.8
+Philadelphia,1991-10-01,143.1
+Philadelphia,1991-11-01,143.3
+Philadelphia,1991-12-01,144.4
+Philadelphia,1992-01-01,144.4
+Philadelphia,1992-02-01,144.2
+Philadelphia,1992-03-01,145.4
+Philadelphia,1992-04-01,145.4
+Philadelphia,1992-05-01,145.7
+Philadelphia,1992-06-01,147.5
+Philadelphia,1992-07-01,147.3
+Philadelphia,1992-08-01,148.0
+Philadelphia,1992-09-01,148.1
+Philadelphia,1992-10-01,148.0
+Philadelphia,1992-11-01,147.5
+Philadelphia,1992-12-01,147.5
+Philadelphia,1993-01-01,147.5
+Philadelphia,1993-02-01,148.5
+Philadelphia,1993-03-01,149.3
+Philadelphia,1993-04-01,149.6
+Philadelphia,1993-05-01,149.4
+Philadelphia,1993-06-01,150.5
+Philadelphia,1993-07-01,150.7
+Philadelphia,1993-08-01,150.6
+Philadelphia,1993-09-01,151.1
+Philadelphia,1993-10-01,152.2
+Philadelphia,1993-11-01,152.1
+Philadelphia,1993-12-01,151.3
+Philadelphia,1994-01-01,152.5
+Philadelphia,1994-02-01,152.9
+Philadelphia,1994-03-01,153.5
+Philadelphia,1994-04-01,153.1
+Philadelphia,1994-05-01,153.2
+Philadelphia,1994-06-01,154.6
+Philadelphia,1994-07-01,155.3
+Philadelphia,1994-08-01,155.7
+Philadelphia,1994-09-01,156.2
+Philadelphia,1994-10-01,156.6
+Philadelphia,1994-11-01,156.7
+Philadelphia,1994-12-01,155.4
+Philadelphia,1995-01-01,156.6
+Philadelphia,1995-02-01,157.8
+Philadelphia,1995-03-01,158.0
+Philadelphia,1995-04-01,157.8
+Philadelphia,1995-05-01,157.8
+Philadelphia,1995-06-01,158.4
+Philadelphia,1995-07-01,158.9
+Philadelphia,1995-08-01,159.6
+Philadelphia,1995-09-01,160.3
+Philadelphia,1995-10-01,160.4
+Philadelphia,1995-11-01,159.6
+Philadelphia,1995-12-01,159.1
+Philadelphia,1996-01-01,160.3
+Philadelphia,1996-02-01,161.2
+Philadelphia,1996-03-01,162.0
+Philadelphia,1996-04-01,162.1
+Philadelphia,1996-05-01,161.8
+Philadelphia,1996-06-01,162.3
+Philadelphia,1996-07-01,162.8
+Philadelphia,1996-08-01,163.6
+Philadelphia,1996-09-01,164.5
+Philadelphia,1996-10-01,164.9
+Philadelphia,1996-11-01,164.3
+Philadelphia,1996-12-01,164.3
+Philadelphia,1997-01-01,165.1
+Philadelphia,1997-02-01,165.8
+Philadelphia,1997-03-01,166.1
+Philadelphia,1997-04-01,166.0
+Philadelphia,1997-05-01,166.0
+Philadelphia,1997-06-01,166.1
+Philadelphia,1997-07-01,166.4
+Philadelphia,1997-08-01,166.8
+Philadelphia,1997-09-01,168.6
+Philadelphia,1997-10-01,167.7
+Philadelphia,1997-11-01,166.4
+Philadelphia,1997-12-01,166.4
+Philadelphia,1998-02-01,167.0
+Philadelphia,1998-04-01,167.1
+Philadelphia,1998-06-01,168.0
+Philadelphia,1998-08-01,168.6
+Philadelphia,1998-10-01,170.3
+Philadelphia,1998-12-01,169.0
+Philadelphia,1999-02-01,168.6
+Philadelphia,1999-04-01,171.1
+Philadelphia,1999-06-01,172.1
+Philadelphia,1999-08-01,173.1
+Philadelphia,1999-10-01,174.4
+Philadelphia,1999-12-01,172.9
+Philadelphia,2000-02-01,174.8
+Philadelphia,2000-04-01,175.8
+Philadelphia,2000-06-01,176.6
+Philadelphia,2000-08-01,177.5
+Philadelphia,2000-10-01,177.9
+Philadelphia,2000-12-01,177.5
+Philadelphia,2001-02-01,179.0
+Philadelphia,2001-04-01,181.2
+Philadelphia,2001-06-01,182.5
+Philadelphia,2001-08-01,182.8
+Philadelphia,2001-10-01,182.9
+Philadelphia,2001-12-01,179.9
+Philadelphia,2002-02-01,182.0
+Philadelphia,2002-04-01,183.1
+Philadelphia,2002-06-01,186.3
+Philadelphia,2002-08-01,188.3
+Philadelphia,2002-10-01,185.8
+Philadelphia,2002-12-01,185.3
+Philadelphia,2003-02-01,186.6
+Philadelphia,2003-04-01,187.2
+Philadelphia,2003-06-01,189.7
+Philadelphia,2003-08-01,191.1
+Philadelphia,2003-10-01,190.3
+Philadelphia,2003-12-01,189.0
+Philadelphia,2004-02-01,191.4
+Philadelphia,2004-04-01,194.8
+Philadelphia,2004-06-01,198.0
+Philadelphia,2004-08-01,199.1
+Philadelphia,2004-10-01,200.2
+Philadelphia,2004-12-01,197.8
+Philadelphia,2005-02-01,200.1
+Philadelphia,2005-04-01,203.3
+Philadelphia,2005-06-01,204.8
+Philadelphia,2005-08-01,206.6
+Philadelphia,2005-10-01,207.5
+Philadelphia,2005-12-01,204.9
+Philadelphia,2006-02-01,209.0
+Philadelphia,2006-04-01,211.6
+Philadelphia,2006-06-01,213.9
+Philadelphia,2006-08-01,216.4
+Philadelphia,2006-10-01,211.6
+Philadelphia,2006-12-01,211.6
+Philadelphia,2007-02-01,213.152
+Philadelphia,2007-04-01,215.27
+Philadelphia,2007-06-01,217.255
+Philadelphia,2007-08-01,218.692
+Philadelphia,2007-10-01,218.929
+Philadelphia,2007-12-01,219.025
+Philadelphia,2008-02-01,220.935
+Philadelphia,2008-04-01,223.622
+Philadelphia,2008-06-01,228.408
+Philadelphia,2008-08-01,228.337
+Philadelphia,2008-10-01,225.113
+Philadelphia,2008-12-01,218.186
+Philadelphia,2009-02-01,220.262
+Philadelphia,2009-04-01,221.686
+Philadelphia,2009-06-01,223.81
+Philadelphia,2009-08-01,226.039
+Philadelphia,2009-10-01,224.787
+Philadelphia,2009-12-01,224.8
+Philadelphia,2010-02-01,226.529
+Philadelphia,2010-04-01,227.432
+Philadelphia,2010-06-01,228.074
+Philadelphia,2010-08-01,228.5
+Philadelphia,2010-10-01,228.543
+Philadelphia,2010-12-01,228.017
+Philadelphia,2011-02-01,230.878
+Philadelphia,2011-04-01,233.143
+Philadelphia,2011-06-01,234.463
+Philadelphia,2011-08-01,236.196
+Philadelphia,2011-10-01,235.44
+Philadelphia,2011-12-01,234.312
+Philadelphia,2012-02-01,235.857
+Philadelphia,2012-04-01,237.782
+Philadelphia,2012-06-01,237.405
+Philadelphia,2012-08-01,239.557
+Philadelphia,2012-10-01,240.537
+Philadelphia,2012-12-01,238.492
+Philadelphia,2013-02-01,240.137
+Philadelphia,2013-04-01,240.345
+Philadelphia,2013-06-01,240.99
+Philadelphia,2013-08-01,242.128
+Philadelphia,2013-10-01,241.141
+Philadelphia,2013-12-01,241.383
+Philadelphia,2014-02-01,242.584
+Philadelphia,2014-04-01,243.694
+Philadelphia,2014-06-01,245.247
+Philadelphia,2014-08-01,245.303
+Philadelphia,2014-10-01,244.948
+Philadelphia,2014-12-01,242.912
+Philadelphia,2015-02-01,242.424
+Philadelphia,2015-04-01,243.717
+Philadelphia,2015-06-01,245.675
+Philadelphia,2015-08-01,244.519
+Philadelphia,2015-10-01,243.697
+Philadelphia,2015-12-01,242.356
+Philadelphia,2016-02-01,243.132
+Philadelphia,2016-04-01,245.3
+Philadelphia,2016-06-01,245.98
+Philadelphia,2016-08-01,245.386
+Philadelphia,2016-10-01,246.952
+Philadelphia,2016-12-01,246.591
+Philadelphia,2017-02-01,248.345
+Philadelphia,2017-04-01,248.411
+Philadelphia,2017-06-01,247.713
+Philadelphia,2017-08-01,248.919
+Philadelphia,2017-10-01,248.956
+Philadelphia,2017-12-01,248.617
+Philadelphia,2018-02-01,249.567
+Philadelphia,2018-04-01,251.85
+Philadelphia,2018-06-01,252.386
+Philadelphia,2018-08-01,253.085
+Philadelphia,2018-10-01,253.04
+Philadelphia,2018-12-01,251.148
+Philadelphia,2019-02-01,253.218
+Philadelphia,2019-04-01,256.528
+Philadelphia,2019-06-01,257.709
+Philadelphia,2019-08-01,258.877
+Philadelphia,2019-10-01,257.966
+Philadelphia,2019-12-01,257.194
+Philadelphia,2020-02-01,259.694
+Philadelphia,2020-04-01,256.353
+Philadelphia,2020-06-01,257.983
+Philadelphia,2020-08-01,259.965
+Philadelphia,2020-10-01,259.979
+Philadelphia,2020-12-01,259.991
+Philadelphia,2021-02-01,262.167
+Philadelphia,2021-04-01,265.355
+Philadelphia,2021-06-01,270.499
+Philadelphia,2021-08-01,272.044
+Philadelphia,2021-10-01,274.647
+Philadelphia,2021-12-01,277.163
+Philadelphia,2022-02-01,281.402
+Philadelphia,2022-04-01,287.602
+Philadelphia,2022-06-01,294.207
+Philadelphia,2022-08-01,294.13
+Philadelphia,2022-10-01,295.978
+Philadelphia,2022-12-01,294.883
+Philadelphia,2023-02-01,300.882
+Philadelphia,2023-04-01,301.225
+Philadelphia,2023-06-01,303.446
+Philadelphia,2023-08-01,305.742
+Philadelphia,2023-10-01,306.276
+Tampa,1914-12-01,9.2
+Tampa,1915-12-01,9.2
+Tampa,1916-12-01,10.0
+Tampa,1917-12-01,11.6
+Tampa,1918-12-01,14.1
+Tampa,1919-06-01,14.7
+Tampa,1919-12-01,16.3
+Tampa,1920-06-01,17.5
+Tampa,1920-12-01,16.5
+Tampa,1921-05-01,15.2
+Tampa,1921-09-01,15.0
+Tampa,1921-12-01,15.0
+Tampa,1922-03-01,14.7
+Tampa,1922-06-01,14.6
+Tampa,1922-09-01,14.5
+Tampa,1922-12-01,14.6
+Tampa,1923-03-01,14.4
+Tampa,1923-06-01,14.6
+Tampa,1923-09-01,14.8
+Tampa,1923-12-01,15.0
+Tampa,1924-03-01,14.6
+Tampa,1924-06-01,14.6
+Tampa,1924-09-01,14.7
+Tampa,1924-12-01,14.8
+Tampa,1925-06-01,15.1
+Tampa,1925-12-01,15.3
+Tampa,1926-06-01,15.0
+Tampa,1926-12-01,15.0
+Tampa,1927-06-01,15.0
+Tampa,1927-12-01,14.9
+Tampa,1928-06-01,14.8
+Tampa,1928-12-01,15.0
+Tampa,1929-06-01,14.8
+Tampa,1929-12-01,14.9
+Tampa,1930-06-01,14.6
+Tampa,1930-12-01,14.1
+Tampa,1931-06-01,13.3
+Tampa,1931-12-01,12.9
+Tampa,1932-06-01,12.2
+Tampa,1932-12-01,12.0
+Tampa,1933-06-01,11.7
+Tampa,1933-12-01,12.1
+Tampa,1934-06-01,12.2
+Tampa,1934-11-01,12.5
+Tampa,1935-03-01,12.6
+Tampa,1935-07-01,12.3
+Tampa,1935-10-01,12.3
+Tampa,1936-01-01,12.4
+Tampa,1936-04-01,12.2
+Tampa,1936-07-01,12.4
+Tampa,1936-09-01,12.4
+Tampa,1936-12-01,12.4
+Tampa,1937-03-01,12.8
+Tampa,1937-06-01,12.8
+Tampa,1937-09-01,12.9
+Tampa,1937-12-01,13.0
+Tampa,1938-03-01,12.8
+Tampa,1938-06-01,12.8
+Tampa,1938-09-01,12.8
+Tampa,1938-12-01,12.8
+Tampa,1939-03-01,12.7
+Tampa,1939-06-01,12.5
+Tampa,1939-09-01,12.8
+Tampa,1939-12-01,12.6
+Tampa,1940-03-01,12.6
+Tampa,1940-06-01,12.6
+Tampa,1940-09-01,12.7
+Tampa,1940-10-01,12.8
+Tampa,1940-11-01,12.8
+Tampa,1940-12-01,12.8
+Tampa,1941-01-01,12.8
+Tampa,1941-02-01,12.9
+Tampa,1941-03-01,12.9
+Tampa,1941-04-01,13.1
+Tampa,1941-05-01,13.1
+Tampa,1941-06-01,13.3
+Tampa,1941-07-01,13.3
+Tampa,1941-08-01,13.4
+Tampa,1941-09-01,13.6
+Tampa,1941-10-01,13.8
+Tampa,1941-11-01,14.0
+Tampa,1941-12-01,14.0
+Tampa,1942-01-01,14.3
+Tampa,1942-02-01,14.4
+Tampa,1942-03-01,14.6
+Tampa,1942-04-01,14.8
+Tampa,1942-05-01,14.8
+Tampa,1942-06-01,14.9
+Tampa,1942-07-01,14.9
+Tampa,1942-08-01,15.1
+Tampa,1942-09-01,15.2
+Tampa,1942-10-01,15.3
+Tampa,1942-11-01,15.6
+Tampa,1942-12-01,15.6
+Tampa,1943-01-01,15.7
+Tampa,1943-02-01,15.7
+Tampa,1943-03-01,15.9
+Tampa,1943-04-01,16.2
+Tampa,1943-05-01,16.2
+Tampa,1943-06-01,16.2
+Tampa,1943-07-01,15.8
+Tampa,1943-08-01,15.7
+Tampa,1943-09-01,15.8
+Tampa,1943-10-01,16.0
+Tampa,1943-11-01,16.1
+Tampa,1943-12-01,16.1
+Tampa,1944-01-01,16.1
+Tampa,1944-02-01,16.0
+Tampa,1944-03-01,16.1
+Tampa,1944-04-01,16.2
+Tampa,1944-05-01,16.4
+Tampa,1944-06-01,16.3
+Tampa,1944-07-01,16.4
+Tampa,1944-08-01,16.4
+Tampa,1944-09-01,16.4
+Tampa,1944-10-01,16.6
+Tampa,1944-11-01,16.6
+Tampa,1944-12-01,16.8
+Tampa,1945-01-01,16.7
+Tampa,1945-02-01,16.6
+Tampa,1945-03-01,16.7
+Tampa,1945-04-01,16.8
+Tampa,1945-05-01,16.7
+Tampa,1945-06-01,16.8
+Tampa,1945-07-01,16.9
+Tampa,1945-08-01,16.8
+Tampa,1945-09-01,16.8
+Tampa,1945-10-01,16.8
+Tampa,1945-11-01,17.0
+Tampa,1945-12-01,17.2
+Tampa,1946-01-01,17.0
+Tampa,1946-02-01,16.8
+Tampa,1946-03-01,16.9
+Tampa,1946-04-01,16.9
+Tampa,1946-05-01,17.0
+Tampa,1946-06-01,17.4
+Tampa,1946-07-01,18.2
+Tampa,1946-08-01,18.7
+Tampa,1946-09-01,19.1
+Tampa,1946-10-01,19.4
+Tampa,1946-11-01,20.1
+Tampa,1946-12-01,20.3
+Tampa,1947-01-01,20.1
+Tampa,1947-02-01,20.0
+Tampa,1947-03-01,20.3
+Tampa,1947-04-01,20.4
+Tampa,1947-05-01,20.3
+Tampa,1947-06-01,20.1
+Tampa,1947-09-01,21.0
+Tampa,1947-12-01,21.4
+Tampa,1948-03-01,21.7
+Tampa,1948-06-01,22.0
+Tampa,1948-09-01,22.4
+Tampa,1948-12-01,22.4
+Tampa,1949-03-01,22.1
+Tampa,1949-06-01,22.0
+Tampa,1949-09-01,21.9
+Tampa,1949-12-01,21.7
+Tampa,1950-03-01,21.8
+Tampa,1950-06-01,21.7
+Tampa,1950-09-01,22.1
+Tampa,1950-12-01,22.9
+Tampa,1951-03-01,23.8
+Tampa,1951-06-01,23.7
+Tampa,1951-09-01,23.7
+Tampa,1951-12-01,24.3
+Tampa,1952-03-01,24.3
+Tampa,1952-06-01,24.8
+Tampa,1952-09-01,24.7
+Tampa,1952-12-01,24.9
+Tampa,1953-03-01,24.9
+Tampa,1953-06-01,25.0
+Tampa,1953-09-01,25.2
+Tampa,1953-12-01,25.2
+Tampa,1954-03-01,25.1
+Tampa,1954-06-01,25.1
+Tampa,1954-09-01,25.0
+Tampa,1954-12-01,24.9
+Tampa,1955-03-01,24.9
+Tampa,1955-06-01,24.9
+Tampa,1955-09-01,24.9
+Tampa,1955-12-01,24.9
+Tampa,1956-03-01,25.1
+Tampa,1956-06-01,25.4
+Tampa,1956-09-01,25.6
+Tampa,1956-12-01,26.2
+Tampa,1957-03-01,26.3
+Tampa,1957-06-01,26.4
+Tampa,1957-09-01,26.6
+Tampa,1957-12-01,26.9
+Tampa,1958-03-01,27.3
+Tampa,1958-06-01,27.6
+Tampa,1958-09-01,27.6
+Tampa,1958-12-01,27.6
+Tampa,1959-03-01,27.8
+Tampa,1959-06-01,27.9
+Tampa,1959-09-01,28.2
+Tampa,1959-12-01,28.4
+Tampa,1960-03-01,28.3
+Tampa,1960-06-01,28.5
+Tampa,1960-09-01,28.7
+Tampa,1960-12-01,28.9
+Tampa,1961-03-01,28.8
+Tampa,1961-06-01,28.8
+Tampa,1961-09-01,29.0
+Tampa,1961-12-01,29.1
+Tampa,1962-03-01,29.3
+Tampa,1962-06-01,29.4
+Tampa,1962-09-01,29.4
+Tampa,1962-12-01,29.5
+Tampa,1963-03-01,29.6
+Tampa,1963-06-01,29.8
+Tampa,1963-09-01,29.9
+Tampa,1963-12-01,30.1
+Tampa,1964-03-01,30.1
+Tampa,1964-06-01,30.2
+Tampa,1964-09-01,30.3
+Tampa,1964-12-01,30.5
+Tampa,1965-03-01,30.7
+Tampa,1965-06-01,30.9
+Tampa,1965-09-01,30.8
+Tampa,1965-12-01,31.1
+Tampa,1966-03-01,31.4
+Tampa,1966-06-01,31.5
+Tampa,1966-09-01,31.8
+Tampa,1966-12-01,32.0
+Tampa,1967-03-01,32.0
+Tampa,1967-06-01,32.4
+Tampa,1967-09-01,32.9
+Tampa,1967-12-01,33.1
+Tampa,1968-03-01,33.5
+Tampa,1968-06-01,34.0
+Tampa,1968-09-01,34.3
+Tampa,1968-12-01,34.6
+Tampa,1969-03-01,35.2
+Tampa,1969-06-01,35.7
+Tampa,1969-09-01,36.3
+Tampa,1969-12-01,36.8
+Tampa,1970-03-01,37.2
+Tampa,1970-06-01,37.6
+Tampa,1970-09-01,38.0
+Tampa,1970-12-01,38.5
+Tampa,1971-03-01,38.7
+Tampa,1971-06-01,39.0
+Tampa,1971-09-01,39.3
+Tampa,1971-12-01,39.6
+Tampa,1972-03-01,39.9
+Tampa,1972-06-01,40.4
+Tampa,1972-09-01,40.9
+Tampa,1972-12-01,41.1
+Tampa,1973-03-01,41.9
+Tampa,1973-06-01,42.5
+Tampa,1973-09-01,43.8
+Tampa,1973-12-01,44.0
+Tampa,1974-03-01,45.3
+Tampa,1974-06-01,46.8
+Tampa,1974-09-01,48.2
+Tampa,1974-12-01,49.5
+Tampa,1975-03-01,50.7
+Tampa,1975-06-01,51.6
+Tampa,1975-09-01,52.5
+Tampa,1975-12-01,53.4
+Tampa,1976-03-01,53.8
+Tampa,1976-06-01,54.3
+Tampa,1976-09-01,55.3
+Tampa,1976-12-01,56.0
+Tampa,1977-03-01,57.2
+Tampa,1977-06-01,58.8
+Tampa,1977-09-01,59.9
+Tampa,1977-12-01,60.9
+Tampa,1978-02-01,61.5
+Tampa,1978-04-01,62.7
+Tampa,1978-06-01,64.8
+Tampa,1978-08-01,66.6
+Tampa,1978-10-01,66.1
+Tampa,1978-12-01,65.3
+Tampa,1979-02-01,66.3
+Tampa,1979-04-01,67.9
+Tampa,1979-06-01,69.1
+Tampa,1979-08-01,71.0
+Tampa,1979-10-01,72.0
+Tampa,1979-12-01,74.9
+Tampa,1980-02-01,78.3
+Tampa,1980-04-01,79.2
+Tampa,1980-06-01,80.7
+Tampa,1980-08-01,81.6
+Tampa,1980-10-01,81.9
+Tampa,1980-12-01,82.9
+Tampa,1981-02-01,84.7
+Tampa,1981-04-01,87.9
+Tampa,1981-06-01,89.1
+Tampa,1981-08-01,93.6
+Tampa,1981-10-01,96.6
+Tampa,1981-12-01,95.6
+Tampa,1982-02-01,96.2
+Tampa,1982-04-01,97.2
+Tampa,1982-06-01,99.1
+Tampa,1982-08-01,99.0
+Tampa,1982-10-01,98.4
+Tampa,1982-12-01,95.6
+Tampa,1983-02-01,96.7
+Tampa,1983-04-01,97.4
+Tampa,1983-06-01,98.6
+Tampa,1983-08-01,99.5
+Tampa,1983-10-01,99.4
+Tampa,1983-12-01,100.0
+Tampa,1984-02-01,101.4
+Tampa,1984-04-01,102.9
+Tampa,1984-06-01,103.7
+Tampa,1984-08-01,105.2
+Tampa,1984-10-01,106.5
+Tampa,1984-12-01,106.0
+Tampa,1985-02-01,106.9
+Tampa,1985-04-01,107.5
+Tampa,1985-06-01,108.4
+Tampa,1985-08-01,109.2
+Tampa,1985-10-01,109.5
+Tampa,1985-12-01,109.4
+Tampa,1986-02-01,111.0
+Tampa,1986-04-01,110.4
+Tampa,1986-06-01,111.9
+Tampa,1986-08-01,112.4
+Tampa,1986-10-01,113.1
+Tampa,1986-12-01,111.8
+Tampa,1987-01-01,112.5
+Tampa,1987-02-01,113.4
+Tampa,1987-03-01,113.7
+Tampa,1987-04-01,114.8
+Tampa,1987-05-01,115.0
+Tampa,1987-06-01,115.0
+Tampa,1987-07-01,115.8
+Tampa,1987-08-01,116.1
+Tampa,1987-09-01,116.6
+Tampa,1987-10-01,117.1
+Tampa,1987-11-01,117.3
+Tampa,1987-12-01,117.4
+Tampa,1988-01-01,118.4
+Tampa,1988-02-01,117.9
+Tampa,1988-03-01,119.1
+Tampa,1988-04-01,118.7
+Tampa,1988-05-01,119.7
+Tampa,1988-06-01,120.1
+Tampa,1988-07-01,120.9
+Tampa,1988-08-01,122.0
+Tampa,1988-09-01,122.1
+Tampa,1988-10-01,122.3
+Tampa,1988-11-01,122.2
+Tampa,1988-12-01,122.6
+Tampa,1989-01-01,124.0
+Tampa,1989-02-01,124.0
+Tampa,1989-03-01,125.9
+Tampa,1989-04-01,125.4
+Tampa,1989-05-01,126.3
+Tampa,1989-06-01,126.2
+Tampa,1989-07-01,127.4
+Tampa,1989-08-01,128.1
+Tampa,1989-09-01,126.8
+Tampa,1989-10-01,127.5
+Tampa,1989-11-01,127.2
+Tampa,1989-12-01,127.4
+Tampa,1990-01-01,128.5
+Tampa,1990-02-01,129.2
+Tampa,1990-03-01,130.0
+Tampa,1990-04-01,130.7
+Tampa,1990-05-01,130.8
+Tampa,1990-06-01,131.6
+Tampa,1990-07-01,132.3
+Tampa,1990-08-01,133.1
+Tampa,1990-09-01,134.0
+Tampa,1990-10-01,134.6
+Tampa,1990-11-01,134.7
+Tampa,1990-12-01,135.1
+Tampa,1991-01-01,136.7
+Tampa,1991-02-01,136.1
+Tampa,1991-03-01,136.3
+Tampa,1991-04-01,135.8
+Tampa,1991-05-01,136.2
+Tampa,1991-06-01,137.6
+Tampa,1991-07-01,138.2
+Tampa,1991-08-01,139.1
+Tampa,1991-09-01,139.7
+Tampa,1991-10-01,139.6
+Tampa,1991-11-01,139.8
+Tampa,1991-12-01,139.8
+Tampa,1992-01-01,140.3
+Tampa,1992-02-01,141.0
+Tampa,1992-03-01,141.9
+Tampa,1992-04-01,141.6
+Tampa,1992-05-01,141.9
+Tampa,1992-06-01,141.9
+Tampa,1992-07-01,142.2
+Tampa,1992-08-01,142.7
+Tampa,1992-09-01,143.7
+Tampa,1992-10-01,144.3
+Tampa,1992-11-01,144.2
+Tampa,1992-12-01,144.3
+Tampa,1993-01-01,145.1
+Tampa,1993-02-01,145.5
+Tampa,1993-03-01,145.7
+Tampa,1993-04-01,146.8
+Tampa,1993-05-01,146.9
+Tampa,1993-06-01,146.1
+Tampa,1993-07-01,146.1
+Tampa,1993-08-01,146.2
+Tampa,1993-09-01,146.5
+Tampa,1993-10-01,147.0
+Tampa,1993-11-01,147.2
+Tampa,1993-12-01,147.0
+Tampa,1994-01-01,147.5
+Tampa,1994-02-01,147.4
+Tampa,1994-03-01,148.2
+Tampa,1994-04-01,148.0
+Tampa,1994-05-01,148.3
+Tampa,1994-06-01,148.1
+Tampa,1994-07-01,148.9
+Tampa,1994-08-01,149.4
+Tampa,1994-09-01,149.4
+Tampa,1994-10-01,149.4
+Tampa,1994-11-01,149.8
+Tampa,1994-12-01,149.4
+Tampa,1995-01-01,150.3
+Tampa,1995-02-01,150.5
+Tampa,1995-03-01,151.1
+Tampa,1995-04-01,151.5
+Tampa,1995-05-01,151.3
+Tampa,1995-06-01,151.7
+Tampa,1995-07-01,151.5
+Tampa,1995-08-01,151.5
+Tampa,1995-09-01,152.3
+Tampa,1995-10-01,152.6
+Tampa,1995-11-01,152.4
+Tampa,1995-12-01,152.1
+Tampa,1996-01-01,152.9
+Tampa,1996-02-01,153.2
+Tampa,1996-03-01,152.9
+Tampa,1996-04-01,153.9
+Tampa,1996-05-01,155.1
+Tampa,1996-06-01,155.2
+Tampa,1996-07-01,155.9
+Tampa,1996-08-01,155.6
+Tampa,1996-09-01,156.3
+Tampa,1996-10-01,156.9
+Tampa,1996-11-01,156.9
+Tampa,1996-12-01,156.0
+Tampa,1997-01-01,157.0
+Tampa,1997-02-01,157.9
+Tampa,1997-03-01,159.2
+Tampa,1997-04-01,159.6
+Tampa,1997-05-01,159.8
+Tampa,1997-06-01,160.0
+Tampa,1997-07-01,160.6
+Tampa,1997-08-01,161.2
+Tampa,1997-09-01,161.6
+Tampa,1997-10-01,162.5
+Tampa,1997-11-01,162.6
+Tampa,1997-12-01,162.6
+Tampa,1998-02-01,163.2
+Tampa,1998-04-01,164.6
+Tampa,1998-06-01,165.5
+Tampa,1998-08-01,166.6
+Tampa,1998-10-01,167.2
+Tampa,1998-12-01,167.4
+Tampa,1999-02-01,169.4
+Tampa,1999-04-01,172.2
+Tampa,1999-06-01,171.8
+Tampa,1999-08-01,173.5
+Tampa,1999-10-01,175.2
+Tampa,1999-12-01,174.5
+Tampa,2000-02-01,176.5
+Tampa,2000-04-01,178.7
+Tampa,2000-06-01,179.1
+Tampa,2000-08-01,181.7
+Tampa,2000-10-01,183.4
+Tampa,2000-12-01,184.1
+Tampa,2001-02-01,187.9
+Tampa,2001-04-01,189.1
+Tampa,2001-06-01,190.9
+Tampa,2001-08-01,191.0
+Tampa,2001-10-01,191.7
+Tampa,2001-12-01,190.6
+Tampa,2002-02-01,191.3
+Tampa,2002-04-01,193.0
+Tampa,2002-06-01,193.2
+Tampa,2002-08-01,193.5
+Tampa,2002-10-01,194.3
+Tampa,2002-12-01,193.2
+Tampa,2003-02-01,197.7
+Tampa,2003-04-01,197.3
+Tampa,2003-06-01,196.3
+Tampa,2003-08-01,196.3
+Tampa,2003-10-01,196.3
+Tampa,2003-12-01,195.3
+Tampa,2004-02-01,198.1
+Tampa,2004-04-01,198.3
+Tampa,2004-06-01,199.0
+Tampa,2004-08-01,198.7
+Tampa,2004-10-01,200.3
+Tampa,2004-12-01,199.5
+Tampa,2005-02-01,201.2
+Tampa,2005-04-01,202.5
+Tampa,2005-06-01,201.2
+Tampa,2005-08-01,203.0
+Tampa,2005-10-01,205.9
+Tampa,2005-12-01,203.4
+Tampa,2006-02-01,207.1
+Tampa,2006-04-01,208.9
+Tampa,2006-06-01,209.1
+Tampa,2006-08-01,210.7
+Tampa,2006-10-01,211.0
+Tampa,2006-12-01,210.4
+Tampa,2007-02-01,213.688
+Tampa,2007-04-01,215.842
+Tampa,2007-06-01,216.123
+Tampa,2007-08-01,216.24
+Tampa,2007-10-01,217.949
+Tampa,2007-12-01,218.485
+Tampa,2008-02-01,219.612
+Tampa,2008-04-01,222.074
+Tampa,2008-06-01,225.181
+Tampa,2008-08-01,225.411
+Tampa,2008-10-01,225.824
+Tampa,2008-12-01,218.528
+Tampa,2009-02-01,222.166
+Tampa,2009-04-01,223.854
+Tampa,2009-06-01,225.692
+Tampa,2009-08-01,225.801
+Tampa,2009-10-01,226.051
+Tampa,2009-12-01,224.239
+Tampa,2010-02-01,226.145
+Tampa,2010-04-01,227.697
+Tampa,2010-06-01,228.11
+Tampa,2010-08-01,227.954
+Tampa,2010-10-01,228.107
+Tampa,2010-12-01,227.658
+Tampa,2011-02-01,229.981
+Tampa,2011-04-01,234.121
+Tampa,2011-06-01,233.646
+Tampa,2011-08-01,234.608
+Tampa,2011-10-01,235.331
+Tampa,2011-12-01,234.327
+Tampa,2012-02-01,236.88
+Tampa,2012-04-01,238.985
+Tampa,2012-06-01,239.806
+Tampa,2012-08-01,241.17
+Tampa,2012-10-01,242.834
+Tampa,2012-12-01,239.533
+Tampa,2013-02-01,242.677
+Tampa,2013-04-01,244.675
+Tampa,2013-06-01,245.935
+Tampa,2013-08-01,246.072
+Tampa,2013-10-01,246.617
+Tampa,2013-12-01,245.711
+Tampa,2014-02-01,248.615
+Tampa,2014-04-01,251.495
+Tampa,2014-06-01,253.317
+Tampa,2014-08-01,253.354
+Tampa,2014-10-01,254.503
+Tampa,2014-12-01,252.273
+Tampa,2015-02-01,254.91
+Tampa,2015-04-01,257.622
+Tampa,2015-06-01,259.117
+Tampa,2015-08-01,259.917
+Tampa,2015-10-01,261.019
+Tampa,2015-12-01,260.289
+Tampa,2016-02-01,262.6
+Tampa,2016-04-01,264.565
+Tampa,2016-06-01,266.041
+Tampa,2016-08-01,267.853
+Tampa,2016-10-01,270.306
+Tampa,2016-12-01,269.483
+Tampa,2017-02-01,271.626
+Tampa,2017-04-01,274.589
+Tampa,2017-06-01,275.304
+Tampa,2017-08-01,275.893
+Tampa,2017-10-01,277.57
+Tampa,2017-12-01,277.414
+Tampa,2018-02-01,281.308
+Tampa,2018-04-01,283.422
+Tampa,2018-06-01,286.062
+Tampa,2018-08-01,287.664
+Tampa,2018-10-01,289.673
+Tampa,2018-12-01,289.896
+Tampa,2019-02-01,291.227
+Tampa,2019-04-01,294.801
+Tampa,2019-06-01,295.259
+Tampa,2019-08-01,295.49
+Tampa,2019-10-01,298.443
+Tampa,2019-12-01,297.007
+Tampa,2020-02-01,299.69
+Tampa,2020-04-01,298.074
+Tampa,2020-06-01,300.032
+Tampa,2020-08-01,300.182
+Tampa,2020-10-01,301.736
+Tampa,2020-12-01,302.948
+Tampa,2021-02-01,304.387
+Tampa,2021-04-01,309.419
+Tampa,2021-06-01,309.497
+Tampa,2021-08-01,311.167
+Tampa,2021-10-01,313.265
+Tampa,2021-12-01,315.805
+Tampa,2022-02-01,320.195
+Tampa,2022-04-01,324.878
+Tampa,2022-06-01,330.539
+Tampa,2022-08-01,328.871
+Tampa,2022-10-01,332.062
+Tampa,2022-12-01,331.222
+Tampa,2023-02-01,337.173
+Tampa,2023-04-01,338.496
+Tampa,2023-06-01,340.056
+Tampa,2023-08-01,340.094
+Tampa,2023-10-01,341.219
+Orlando,1963-11-01,29.5
+Orlando,1964-02-01,29.4
+Orlando,1964-05-01,29.6
+Orlando,1964-08-01,29.5
+Orlando,1964-11-01,29.7
+Orlando,1965-02-01,29.5
+Orlando,1965-05-01,29.8
+Orlando,1965-08-01,30.0
+Orlando,1965-11-01,30.3
+Orlando,1966-02-01,30.5
+Orlando,1966-05-01,30.9
+Orlando,1966-08-01,31.1
+Orlando,1966-11-01,31.4
+Orlando,1967-02-01,31.6
+Orlando,1967-05-01,31.7
+Orlando,1967-08-01,32.1
+Orlando,1967-11-01,32.2
+Orlando,1968-02-01,32.5
+Orlando,1968-05-01,33.2
+Orlando,1968-08-01,33.5
+Orlando,1968-11-01,34.0
+Orlando,1969-02-01,34.4
+Orlando,1969-05-01,35.2
+Orlando,1969-08-01,35.7
+Orlando,1969-11-01,36.5
+Orlando,1970-02-01,37.0
+Orlando,1970-05-01,37.5
+Orlando,1970-08-01,37.8
+Orlando,1970-11-01,37.9
+Orlando,1971-02-01,38.2
+Orlando,1971-05-01,38.4
+Orlando,1971-08-01,39.1
+Orlando,1971-11-01,39.0
+Orlando,1972-02-01,39.4
+Orlando,1972-05-01,39.7
+Orlando,1972-08-01,40.0
+Orlando,1972-11-01,40.1
+Orlando,1973-02-01,40.7
+Orlando,1973-05-01,41.6
+Orlando,1973-08-01,42.6
+Orlando,1973-11-01,43.2
+Orlando,1974-02-01,44.5
+Orlando,1974-05-01,45.6
+Orlando,1974-08-01,47.0
+Orlando,1974-11-01,48.2
+Orlando,1975-02-01,49.1
+Orlando,1975-05-01,49.7
+Orlando,1975-08-01,51.2
+Orlando,1975-11-01,51.8
+Orlando,1976-02-01,52.2
+Orlando,1976-05-01,53.0
+Orlando,1976-08-01,53.9
+Orlando,1976-11-01,54.7
+Orlando,1977-02-01,55.9
+Orlando,1977-05-01,57.2
+Orlando,1977-08-01,58.1
+Orlando,1977-11-01,58.6
+Orlando,1978-02-01,59.5
+Orlando,1978-04-01,60.3
+Orlando,1978-06-01,61.7
+Orlando,1978-08-01,62.9
+Orlando,1978-10-01,63.7
+Orlando,1978-12-01,64.3
+Orlando,1979-02-01,65.6
+Orlando,1979-04-01,67.3
+Orlando,1979-06-01,69.3
+Orlando,1979-08-01,71.1
+Orlando,1979-10-01,72.7
+Orlando,1979-12-01,74.6
+Orlando,1980-02-01,77.0
+Orlando,1980-04-01,80.1
+Orlando,1980-06-01,81.7
+Orlando,1980-08-01,82.4
+Orlando,1980-10-01,84.4
+Orlando,1980-12-01,85.9
+Orlando,1981-02-01,87.5
+Orlando,1981-04-01,89.1
+Orlando,1981-06-01,91.2
+Orlando,1981-08-01,91.9
+Orlando,1981-10-01,93.2
+Orlando,1981-12-01,94.1
+Orlando,1982-02-01,93.6
+Orlando,1982-04-01,94.7
+Orlando,1982-06-01,97.2
+Orlando,1982-08-01,97.0
+Orlando,1982-10-01,97.8
+Orlando,1982-12-01,96.7
+Orlando,1983-02-01,97.1
+Orlando,1983-04-01,98.4
+Orlando,1983-06-01,100.1
+Orlando,1983-08-01,100.7
+Orlando,1983-10-01,101.5
+Orlando,1983-12-01,101.2
+Orlando,1984-02-01,102.9
+Orlando,1984-04-01,103.3
+Orlando,1984-06-01,103.8
+Orlando,1984-08-01,105.1
+Orlando,1984-10-01,106.4
+Orlando,1984-12-01,105.4
+Orlando,1985-02-01,106.2
+Orlando,1985-04-01,107.0
+Orlando,1985-06-01,108.3
+Orlando,1985-08-01,109.5
+Orlando,1985-10-01,109.6
+Orlando,1985-12-01,109.8
+Orlando,1986-02-01,110.6
+Orlando,1986-04-01,108.8
+Orlando,1986-06-01,109.9
+Orlando,1986-08-01,110.4
+Orlando,1986-10-01,110.3
+Orlando,1986-12-01,109.3
+Orlando,1987-02-01,110.9
+Orlando,1987-04-01,112.2
+Orlando,1987-06-01,112.9
+Orlando,1987-08-01,113.5
+Orlando,1987-10-01,114.9
+Orlando,1987-12-01,113.9
+Orlando,1988-02-01,114.0
+Orlando,1988-04-01,115.4
+Orlando,1988-06-01,115.6
+Orlando,1988-08-01,117.2
+Orlando,1988-10-01,117.9
+Orlando,1988-12-01,117.2
+Orlando,1989-02-01,117.5
+Orlando,1989-04-01,118.7
+Orlando,1989-06-01,120.0
+Orlando,1989-08-01,120.0
+Orlando,1989-10-01,121.4
+Orlando,1989-12-01,120.5
+Orlando,1990-02-01,122.2
+Orlando,1990-04-01,122.9
+Orlando,1990-06-01,123.8
+Orlando,1990-08-01,126.0
+Orlando,1990-10-01,129.5
+Orlando,1990-12-01,128.4
+Orlando,1991-02-01,129.4
+Orlando,1991-04-01,129.5
+Orlando,1991-06-01,130.1
+Orlando,1991-08-01,131.1
+Orlando,1991-10-01,133.6
+Orlando,1991-12-01,132.0
+Orlando,1992-02-01,132.4
+Orlando,1992-04-01,132.5
+Orlando,1992-06-01,134.2
+Orlando,1992-08-01,134.4
+Orlando,1992-10-01,136.1
+Orlando,1992-12-01,134.6
+Orlando,1993-02-01,135.4
+Orlando,1993-04-01,137.0
+Orlando,1993-06-01,136.2
+Orlando,1993-08-01,138.1
+Orlando,1993-10-01,139.6
+Orlando,1993-12-01,138.8
+Orlando,1994-02-01,139.2
+Orlando,1994-04-01,140.3
+Orlando,1994-06-01,141.4
+Orlando,1994-08-01,142.2
+Orlando,1994-10-01,142.8
+Orlando,1994-12-01,141.9
+Orlando,1995-02-01,143.3
+Orlando,1995-04-01,145.0
+Orlando,1995-06-01,144.4
+Orlando,1995-08-01,145.1
+Orlando,1995-10-01,146.8
+Orlando,1995-12-01,145.5
+Orlando,1996-02-01,146.2
+Orlando,1996-04-01,148.5
+Orlando,1996-06-01,149.4
+Orlando,1996-08-01,149.5
+Orlando,1996-10-01,150.7
+Orlando,1996-12-01,150.0
+Orlando,1997-02-01,150.7
+Orlando,1997-04-01,150.6
+Orlando,1997-06-01,151.4
+Orlando,1997-08-01,151.2
+Orlando,1997-10-01,152.8
+Orlando,1997-12-01,152.5
+Orlando,1998-01-01,152.1
+Orlando,1998-03-01,153.0
+Orlando,1998-05-01,153.0
+Orlando,1998-07-01,154.2
+Orlando,1998-09-01,154.5
+Orlando,1998-11-01,154.0
+Orlando,1999-01-01,155.0
+Orlando,1999-03-01,156.4
+Orlando,1999-05-01,157.2
+Orlando,1999-07-01,158.3
+Orlando,1999-09-01,159.8
+Orlando,1999-11-01,160.1
+Orlando,2000-01-01,160.4
+Orlando,2000-03-01,163.1
+Orlando,2000-05-01,163.2
+Orlando,2000-07-01,166.2
+Orlando,2000-09-01,166.9
+Orlando,2000-11-01,166.8
+Orlando,2001-01-01,167.3
+Orlando,2001-03-01,168.9
+Orlando,2001-05-01,169.4
+Orlando,2001-07-01,171.5
+Orlando,2001-09-01,172.8
+Orlando,2001-11-01,171.5
+Orlando,2002-01-01,170.6
+Orlando,2002-03-01,172.1
+Orlando,2002-05-01,172.9
+Orlando,2002-07-01,172.9
+Orlando,2002-09-01,173.2
+Orlando,2002-11-01,173.6
+Orlando,2003-01-01,174.0
+Orlando,2003-03-01,176.8
+Orlando,2003-05-01,176.9
+Orlando,2003-07-01,176.5
+Orlando,2003-09-01,177.0
+Orlando,2003-11-01,175.9
+Orlando,2004-01-01,175.7
+Orlando,2004-03-01,177.7
+Orlando,2004-05-01,179.1
+Orlando,2004-07-01,179.1
+Orlando,2004-09-01,179.7
+Orlando,2004-11-01,179.9
+Orlando,2005-01-01,180.0
+Orlando,2005-03-01,181.3
+Orlando,2005-05-01,183.5
+Orlando,2005-07-01,184.3
+Orlando,2005-09-01,188.9
+Orlando,2005-11-01,187.8
+Orlando,2006-01-01,188.6
+Orlando,2006-03-01,188.4
+Orlando,2006-05-01,191.2
+Orlando,2006-07-01,191.7
+Orlando,2006-09-01,192.0
+Orlando,2006-11-01,188.4
+Orlando,2007-01-01,188.89
+Orlando,2007-03-01,190.156
+Orlando,2007-05-01,192.779
+Orlando,2007-07-01,194.286
+Orlando,2007-09-01,194.847
+Orlando,2007-11-01,196.465
+Orlando,2008-01-01,197.079
+Orlando,2008-03-01,198.596
+Orlando,2008-05-01,202.357
+Orlando,2008-07-01,206.413
+Orlando,2008-09-01,205.883
+Orlando,2008-11-01,200.051
+Orlando,2009-01-01,198.623
+Orlando,2009-03-01,200.039
+Orlando,2009-05-01,199.311
+Orlando,2009-07-01,200.663
+Orlando,2009-09-01,201.802
+Orlando,2009-11-01,201.958
+Orlando,2010-01-01,202.106
+Orlando,2010-03-01,201.982
+Orlando,2010-05-01,202.108
+Orlando,2010-07-01,200.227
+Orlando,2010-09-01,201.882
+Orlando,2010-11-01,201.168
+Orlando,2011-01-01,203.199
+Orlando,2011-03-01,206.967
+Orlando,2011-05-01,208.794
+Orlando,2011-07-01,208.602
+Orlando,2011-09-01,209.255
+Orlando,2011-11-01,209.283
+Orlando,2012-01-01,209.203
+Orlando,2012-03-01,212.618
+Orlando,2012-05-01,212.226
+Orlando,2012-07-01,211.267
+Orlando,2012-09-01,214.033
+Orlando,2012-11-01,212.901
+Orlando,2013-01-01,213.696
+Orlando,2013-03-01,216.465
+Orlando,2013-05-01,215.67
+Orlando,2013-07-01,216.979
+Orlando,2013-09-01,217.068
+Orlando,2013-11-01,215.45
+Orlando,2014-01-01,216.291
+Orlando,2014-03-01,218.715
+Orlando,2014-05-01,219.59
+Orlando,2014-07-01,219.543
+Orlando,2014-09-01,219.38
+Orlando,2014-11-01,217.188
+Orlando,2015-01-01,214.899
+Orlando,2015-03-01,217.487
+Orlando,2015-05-01,218.484
+Orlando,2015-07-01,218.676
+Orlando,2015-09-01,217.507
+Orlando,2015-11-01,217.104
+Orlando,2016-01-01,217.164
+Orlando,2016-03-01,218.877
+Orlando,2016-05-01,220.717
+Orlando,2016-07-01,221.507
+Orlando,2016-09-01,221.923
+Orlando,2016-11-01,222.259
+Orlando,2017-01-01,223.082
+Orlando,2017-03-01,223.782
+Orlando,2017-05-01,225.264
+Orlando,2017-07-01,225.613
+Orlando,2017-09-01,229.056
+Orlando,2017-11-01,229.352
+Orlando,2018-01-01,229.132
+Orlando,2018-03-01,230.272
+Orlando,2018-05-01,234.034
+Orlando,2018-07-01,233.57
+Orlando,2018-09-01,234.563
+Orlando,2018-11-01,234.487
+Orlando,2019-01-01,233.915
+Orlando,2019-03-01,236.495
+Orlando,2019-05-01,237.485
+Orlando,2019-07-01,238.891
+Orlando,2019-09-01,239.815
+Orlando,2019-11-01,238.768
+Orlando,2020-01-01,238.935
+Orlando,2020-03-01,238.865
+Orlando,2020-05-01,236.317
+Orlando,2020-07-01,239.888
+Orlando,2020-09-01,240.658
+Orlando,2020-11-01,239.544
+Orlando,2021-01-01,242.513
+Orlando,2021-03-01,246.995
+Orlando,2021-05-01,251.228
+Orlando,2021-07-01,253.319
+Orlando,2021-09-01,254.95
+Orlando,2021-11-01,257.394
+Orlando,2022-01-01,261.499
+Orlando,2022-03-01,269.347
+Orlando,2022-05-01,274.196
+Orlando,2022-07-01,277.005
+Orlando,2022-09-01,278.297
+Orlando,2022-11-01,279.0
+Orlando,2023-01-01,281.117
+Orlando,2023-03-01,284.862
+Orlando,2023-05-01,287.133
+Orlando,2023-07-01,288.006
+Orlando,2023-09-01,291.001
+Irvine,1914-12-01,10.2
+Irvine,1915-12-01,10.1
+Irvine,1916-12-01,11.0
+Irvine,1917-12-01,13.0
+Irvine,1918-12-01,15.8
+Irvine,1919-06-01,16.4
+Irvine,1919-12-01,18.6
+Irvine,1920-06-01,20.4
+Irvine,1920-12-01,19.9
+Irvine,1921-05-01,18.5
+Irvine,1921-09-01,18.3
+Irvine,1921-12-01,18.4
+Irvine,1922-03-01,18.2
+Irvine,1922-06-01,18.1
+Irvine,1922-09-01,18.0
+Irvine,1922-12-01,18.1
+Irvine,1923-03-01,18.0
+Irvine,1923-06-01,18.3
+Irvine,1923-09-01,18.5
+Irvine,1923-12-01,18.6
+Irvine,1924-03-01,18.5
+Irvine,1924-06-01,18.3
+Irvine,1924-09-01,18.4
+Irvine,1924-12-01,18.2
+Irvine,1925-06-01,18.5
+Irvine,1925-12-01,18.5
+Irvine,1926-06-01,17.8
+Irvine,1926-12-01,17.8
+Irvine,1927-06-01,17.8
+Irvine,1927-12-01,17.5
+Irvine,1928-06-01,17.2
+Irvine,1928-12-01,17.4
+Irvine,1929-06-01,17.2
+Irvine,1929-12-01,17.2
+Irvine,1930-06-01,16.7
+Irvine,1930-12-01,16.0
+Irvine,1931-06-01,14.9
+Irvine,1931-12-01,14.6
+Irvine,1932-06-01,13.6
+Irvine,1932-12-01,13.1
+Irvine,1933-06-01,12.5
+Irvine,1933-12-01,13.0
+Irvine,1934-06-01,12.9
+Irvine,1934-11-01,13.3
+Irvine,1935-03-01,13.6
+Irvine,1935-07-01,13.2
+Irvine,1935-10-01,13.1
+Irvine,1936-01-01,13.4
+Irvine,1936-04-01,13.2
+Irvine,1936-07-01,13.4
+Irvine,1936-09-01,13.7
+Irvine,1936-12-01,13.7
+Irvine,1937-03-01,14.3
+Irvine,1937-06-01,14.2
+Irvine,1937-09-01,14.4
+Irvine,1937-12-01,14.3
+Irvine,1938-03-01,14.0
+Irvine,1938-06-01,14.0
+Irvine,1938-09-01,14.0
+Irvine,1938-12-01,14.1
+Irvine,1939-03-01,14.0
+Irvine,1939-06-01,13.8
+Irvine,1939-09-01,14.1
+Irvine,1939-12-01,13.9
+Irvine,1940-03-01,13.9
+Irvine,1940-06-01,13.9
+Irvine,1940-09-01,14.0
+Irvine,1940-10-01,14.0
+Irvine,1940-11-01,14.1
+Irvine,1940-12-01,14.1
+Irvine,1941-01-01,14.2
+Irvine,1941-02-01,14.0
+Irvine,1941-03-01,14.1
+Irvine,1941-04-01,14.3
+Irvine,1941-05-01,14.4
+Irvine,1941-06-01,14.6
+Irvine,1941-07-01,14.6
+Irvine,1941-08-01,14.7
+Irvine,1941-09-01,15.0
+Irvine,1941-10-01,15.2
+Irvine,1941-11-01,15.3
+Irvine,1941-12-01,15.5
+Irvine,1942-01-01,15.7
+Irvine,1942-02-01,15.8
+Irvine,1942-03-01,16.1
+Irvine,1942-04-01,16.2
+Irvine,1942-05-01,16.3
+Irvine,1942-06-01,16.4
+Irvine,1942-07-01,16.6
+Irvine,1942-08-01,16.8
+Irvine,1942-09-01,16.8
+Irvine,1942-10-01,17.0
+Irvine,1942-11-01,17.1
+Irvine,1942-12-01,17.1
+Irvine,1943-01-01,17.1
+Irvine,1943-02-01,17.0
+Irvine,1943-03-01,17.2
+Irvine,1943-04-01,17.4
+Irvine,1943-05-01,17.4
+Irvine,1943-06-01,17.4
+Irvine,1943-07-01,17.3
+Irvine,1943-08-01,17.2
+Irvine,1943-09-01,17.3
+Irvine,1943-10-01,17.4
+Irvine,1943-11-01,17.5
+Irvine,1943-12-01,17.5
+Irvine,1944-01-01,17.4
+Irvine,1944-02-01,17.4
+Irvine,1944-03-01,17.4
+Irvine,1944-04-01,17.4
+Irvine,1944-05-01,17.6
+Irvine,1944-06-01,17.5
+Irvine,1944-07-01,17.5
+Irvine,1944-08-01,17.6
+Irvine,1944-09-01,17.7
+Irvine,1944-10-01,17.8
+Irvine,1944-11-01,17.8
+Irvine,1944-12-01,17.9
+Irvine,1945-01-01,17.9
+Irvine,1945-02-01,17.8
+Irvine,1945-03-01,17.9
+Irvine,1945-04-01,18.0
+Irvine,1945-05-01,18.0
+Irvine,1945-06-01,18.0
+Irvine,1945-07-01,18.1
+Irvine,1945-08-01,18.1
+Irvine,1945-09-01,18.3
+Irvine,1945-10-01,18.3
+Irvine,1945-11-01,18.4
+Irvine,1945-12-01,18.5
+Irvine,1946-01-01,18.4
+Irvine,1946-02-01,18.4
+Irvine,1946-03-01,18.4
+Irvine,1946-04-01,18.5
+Irvine,1946-05-01,18.6
+Irvine,1946-06-01,18.8
+Irvine,1946-07-01,19.7
+Irvine,1946-08-01,20.0
+Irvine,1946-09-01,20.1
+Irvine,1946-10-01,20.5
+Irvine,1946-11-01,21.4
+Irvine,1946-12-01,21.4
+Irvine,1947-01-01,21.5
+Irvine,1947-02-01,21.6
+Irvine,1947-03-01,21.7
+Irvine,1947-04-01,21.8
+Irvine,1947-05-01,21.8
+Irvine,1947-06-01,21.7
+Irvine,1947-07-01,21.8
+Irvine,1947-08-01,21.9
+Irvine,1947-09-01,22.4
+Irvine,1947-10-01,22.4
+Irvine,1947-11-01,22.8
+Irvine,1947-12-01,23.0
+Irvine,1948-01-01,23.3
+Irvine,1948-02-01,23.4
+Irvine,1948-03-01,23.3
+Irvine,1948-04-01,23.5
+Irvine,1948-05-01,23.5
+Irvine,1948-06-01,23.5
+Irvine,1948-07-01,23.7
+Irvine,1948-08-01,23.8
+Irvine,1948-09-01,23.8
+Irvine,1948-10-01,23.9
+Irvine,1948-11-01,24.0
+Irvine,1948-12-01,24.1
+Irvine,1949-01-01,24.1
+Irvine,1949-02-01,23.9
+Irvine,1949-03-01,23.9
+Irvine,1949-04-01,23.9
+Irvine,1949-05-01,23.7
+Irvine,1949-06-01,23.6
+Irvine,1949-07-01,23.4
+Irvine,1949-08-01,23.4
+Irvine,1949-09-01,23.4
+Irvine,1949-10-01,23.3
+Irvine,1949-11-01,23.4
+Irvine,1949-12-01,23.2
+Irvine,1950-01-01,23.4
+Irvine,1950-02-01,23.3
+Irvine,1950-03-01,23.4
+Irvine,1950-04-01,23.4
+Irvine,1950-05-01,23.4
+Irvine,1950-06-01,23.4
+Irvine,1950-07-01,23.5
+Irvine,1950-08-01,23.8
+Irvine,1950-09-01,23.9
+Irvine,1950-10-01,24.1
+Irvine,1950-11-01,24.3
+Irvine,1950-12-01,24.6
+Irvine,1951-01-01,25.0
+Irvine,1951-02-01,25.5
+Irvine,1951-03-01,25.7
+Irvine,1951-04-01,25.7
+Irvine,1951-05-01,25.7
+Irvine,1951-06-01,25.7
+Irvine,1951-07-01,25.8
+Irvine,1951-08-01,25.8
+Irvine,1951-09-01,25.9
+Irvine,1951-10-01,25.9
+Irvine,1951-11-01,26.2
+Irvine,1951-12-01,26.3
+Irvine,1952-01-01,26.3
+Irvine,1952-02-01,26.3
+Irvine,1952-03-01,26.4
+Irvine,1952-04-01,26.4
+Irvine,1952-05-01,26.4
+Irvine,1952-06-01,26.5
+Irvine,1952-07-01,26.5
+Irvine,1952-08-01,26.5
+Irvine,1952-09-01,26.5
+Irvine,1952-10-01,26.5
+Irvine,1952-11-01,26.6
+Irvine,1952-12-01,26.6
+Irvine,1953-01-01,26.6
+Irvine,1953-02-01,26.5
+Irvine,1953-03-01,26.6
+Irvine,1953-04-01,26.7
+Irvine,1953-05-01,26.6
+Irvine,1953-06-01,26.6
+Irvine,1953-07-01,26.7
+Irvine,1953-08-01,26.7
+Irvine,1953-09-01,26.8
+Irvine,1953-10-01,26.8
+Irvine,1953-11-01,26.8
+Irvine,1953-12-01,26.7
+Irvine,1954-01-01,27.0
+Irvine,1954-02-01,26.9
+Irvine,1954-03-01,26.8
+Irvine,1954-04-01,26.7
+Irvine,1954-05-01,26.7
+Irvine,1954-06-01,26.7
+Irvine,1954-07-01,26.5
+Irvine,1954-08-01,26.6
+Irvine,1954-09-01,26.6
+Irvine,1954-10-01,26.5
+Irvine,1954-11-01,26.5
+Irvine,1954-12-01,26.6
+Irvine,1955-01-01,26.6
+Irvine,1955-02-01,26.5
+Irvine,1955-03-01,26.6
+Irvine,1955-04-01,26.4
+Irvine,1955-05-01,26.6
+Irvine,1955-06-01,26.6
+Irvine,1955-07-01,26.7
+Irvine,1955-08-01,26.6
+Irvine,1955-09-01,26.8
+Irvine,1955-10-01,26.8
+Irvine,1955-11-01,26.8
+Irvine,1955-12-01,26.8
+Irvine,1956-01-01,26.8
+Irvine,1956-02-01,26.7
+Irvine,1956-03-01,26.8
+Irvine,1956-04-01,26.8
+Irvine,1956-05-01,27.0
+Irvine,1956-06-01,27.1
+Irvine,1956-07-01,27.2
+Irvine,1956-08-01,27.1
+Irvine,1956-09-01,27.2
+Irvine,1956-10-01,27.3
+Irvine,1956-11-01,27.5
+Irvine,1956-12-01,27.6
+Irvine,1957-01-01,27.6
+Irvine,1957-02-01,27.8
+Irvine,1957-03-01,27.8
+Irvine,1957-04-01,27.8
+Irvine,1957-05-01,27.9
+Irvine,1957-06-01,27.9
+Irvine,1957-07-01,28.0
+Irvine,1957-08-01,28.0
+Irvine,1957-09-01,28.2
+Irvine,1957-10-01,28.2
+Irvine,1957-11-01,28.4
+Irvine,1957-12-01,28.4
+Irvine,1958-01-01,28.6
+Irvine,1958-02-01,28.6
+Irvine,1958-03-01,28.8
+Irvine,1958-04-01,29.0
+Irvine,1958-05-01,28.9
+Irvine,1958-06-01,28.9
+Irvine,1958-07-01,29.0
+Irvine,1958-08-01,28.9
+Irvine,1958-09-01,29.1
+Irvine,1958-10-01,29.1
+Irvine,1958-11-01,29.2
+Irvine,1958-12-01,29.2
+Irvine,1959-01-01,29.2
+Irvine,1959-02-01,29.2
+Irvine,1959-03-01,29.2
+Irvine,1959-04-01,29.2
+Irvine,1959-05-01,29.3
+Irvine,1959-06-01,29.3
+Irvine,1959-07-01,29.4
+Irvine,1959-08-01,29.4
+Irvine,1959-09-01,29.5
+Irvine,1959-10-01,29.7
+Irvine,1959-11-01,29.7
+Irvine,1959-12-01,29.8
+Irvine,1960-01-01,29.8
+Irvine,1960-02-01,29.7
+Irvine,1960-03-01,29.9
+Irvine,1960-04-01,30.0
+Irvine,1960-05-01,30.0
+Irvine,1960-06-01,29.9
+Irvine,1960-07-01,29.9
+Irvine,1960-08-01,29.8
+Irvine,1960-09-01,30.0
+Irvine,1960-10-01,30.1
+Irvine,1960-11-01,30.1
+Irvine,1960-12-01,30.3
+Irvine,1961-01-01,30.3
+Irvine,1961-02-01,30.3
+Irvine,1961-03-01,30.2
+Irvine,1961-04-01,30.3
+Irvine,1961-05-01,30.3
+Irvine,1961-06-01,30.3
+Irvine,1961-07-01,30.3
+Irvine,1961-08-01,30.3
+Irvine,1961-09-01,30.3
+Irvine,1961-10-01,30.4
+Irvine,1961-11-01,30.5
+Irvine,1961-12-01,30.5
+Irvine,1962-01-01,30.4
+Irvine,1962-02-01,30.4
+Irvine,1962-03-01,30.5
+Irvine,1962-04-01,30.6
+Irvine,1962-05-01,30.8
+Irvine,1962-06-01,30.8
+Irvine,1962-07-01,30.7
+Irvine,1962-08-01,30.7
+Irvine,1962-09-01,30.9
+Irvine,1962-10-01,30.9
+Irvine,1962-11-01,30.8
+Irvine,1962-12-01,30.9
+Irvine,1963-01-01,30.9
+Irvine,1963-02-01,31.0
+Irvine,1963-03-01,31.0
+Irvine,1963-04-01,31.1
+Irvine,1963-05-01,31.0
+Irvine,1963-06-01,30.9
+Irvine,1963-07-01,31.1
+Irvine,1963-08-01,31.2
+Irvine,1963-09-01,31.2
+Irvine,1963-10-01,31.4
+Irvine,1963-11-01,31.4
+Irvine,1963-12-01,31.3
+Irvine,1964-01-01,31.5
+Irvine,1964-02-01,31.4
+Irvine,1964-03-01,31.6
+Irvine,1964-04-01,31.6
+Irvine,1964-05-01,31.6
+Irvine,1964-06-01,31.6
+Irvine,1964-07-01,31.6
+Irvine,1964-08-01,31.7
+Irvine,1964-09-01,31.6
+Irvine,1964-10-01,32.0
+Irvine,1964-11-01,32.0
+Irvine,1964-12-01,32.1
+Irvine,1965-01-01,32.1
+Irvine,1965-02-01,32.2
+Irvine,1965-03-01,32.3
+Irvine,1965-04-01,32.4
+Irvine,1965-05-01,32.4
+Irvine,1965-06-01,32.5
+Irvine,1965-07-01,32.4
+Irvine,1965-08-01,32.1
+Irvine,1965-09-01,32.5
+Irvine,1965-10-01,32.4
+Irvine,1965-11-01,32.5
+Irvine,1965-12-01,32.6
+Irvine,1966-01-01,32.5
+Irvine,1966-02-01,32.6
+Irvine,1966-03-01,32.7
+Irvine,1966-04-01,32.9
+Irvine,1966-05-01,32.9
+Irvine,1966-06-01,33.0
+Irvine,1966-07-01,33.1
+Irvine,1966-08-01,33.0
+Irvine,1966-09-01,33.3
+Irvine,1966-10-01,33.4
+Irvine,1966-11-01,33.5
+Irvine,1966-12-01,33.5
+Irvine,1967-01-01,33.3
+Irvine,1967-02-01,33.3
+Irvine,1967-03-01,33.2
+Irvine,1967-04-01,33.5
+Irvine,1967-05-01,33.6
+Irvine,1967-06-01,33.7
+Irvine,1967-07-01,33.8
+Irvine,1967-08-01,34.1
+Irvine,1967-09-01,34.3
+Irvine,1967-10-01,34.2
+Irvine,1967-11-01,34.5
+Irvine,1967-12-01,34.5
+Irvine,1968-01-01,34.7
+Irvine,1968-02-01,34.7
+Irvine,1968-03-01,34.9
+Irvine,1968-04-01,34.9
+Irvine,1968-05-01,34.8
+Irvine,1968-06-01,35.1
+Irvine,1968-07-01,35.2
+Irvine,1968-08-01,35.3
+Irvine,1968-09-01,35.3
+Irvine,1968-10-01,35.6
+Irvine,1968-11-01,35.7
+Irvine,1968-12-01,35.7
+Irvine,1969-01-01,35.9
+Irvine,1969-02-01,36.0
+Irvine,1969-03-01,36.5
+Irvine,1969-04-01,36.5
+Irvine,1969-05-01,36.5
+Irvine,1969-06-01,36.8
+Irvine,1969-07-01,37.0
+Irvine,1969-08-01,37.1
+Irvine,1969-09-01,37.3
+Irvine,1969-10-01,37.4
+Irvine,1969-11-01,37.4
+Irvine,1969-12-01,37.7
+Irvine,1970-01-01,37.8
+Irvine,1970-02-01,37.9
+Irvine,1970-03-01,38.0
+Irvine,1970-04-01,38.4
+Irvine,1970-05-01,38.5
+Irvine,1970-06-01,38.6
+Irvine,1970-07-01,38.9
+Irvine,1970-08-01,38.7
+Irvine,1970-09-01,39.2
+Irvine,1970-10-01,39.3
+Irvine,1970-11-01,39.3
+Irvine,1970-12-01,39.5
+Irvine,1971-01-01,39.5
+Irvine,1971-02-01,39.3
+Irvine,1971-03-01,39.6
+Irvine,1971-04-01,39.5
+Irvine,1971-05-01,40.0
+Irvine,1971-06-01,40.2
+Irvine,1971-07-01,40.3
+Irvine,1971-08-01,40.4
+Irvine,1971-09-01,40.6
+Irvine,1971-10-01,40.7
+Irvine,1971-11-01,40.6
+Irvine,1971-12-01,40.6
+Irvine,1972-01-01,40.6
+Irvine,1972-02-01,40.7
+Irvine,1972-03-01,41.0
+Irvine,1972-04-01,41.0
+Irvine,1972-05-01,41.1
+Irvine,1972-06-01,41.2
+Irvine,1972-07-01,41.5
+Irvine,1972-08-01,41.6
+Irvine,1972-09-01,41.9
+Irvine,1972-10-01,41.9
+Irvine,1972-11-01,42.1
+Irvine,1972-12-01,42.1
+Irvine,1973-01-01,42.2
+Irvine,1973-02-01,42.5
+Irvine,1973-03-01,42.8
+Irvine,1973-04-01,43.0
+Irvine,1973-05-01,43.1
+Irvine,1973-06-01,43.5
+Irvine,1973-07-01,43.7
+Irvine,1973-08-01,44.3
+Irvine,1973-09-01,44.4
+Irvine,1973-10-01,44.8
+Irvine,1973-11-01,45.2
+Irvine,1973-12-01,45.4
+Irvine,1974-01-01,45.8
+Irvine,1974-02-01,46.1
+Irvine,1974-03-01,46.6
+Irvine,1974-04-01,47.0
+Irvine,1974-05-01,47.5
+Irvine,1974-06-01,47.9
+Irvine,1974-07-01,48.4
+Irvine,1974-08-01,49.0
+Irvine,1974-09-01,49.8
+Irvine,1974-10-01,49.8
+Irvine,1974-11-01,50.3
+Irvine,1974-12-01,50.8
+Irvine,1975-01-01,51.0
+Irvine,1975-02-01,51.5
+Irvine,1975-03-01,52.2
+Irvine,1975-04-01,52.7
+Irvine,1975-05-01,53.1
+Irvine,1975-06-01,53.0
+Irvine,1975-07-01,53.5
+Irvine,1975-08-01,53.7
+Irvine,1975-09-01,54.3
+Irvine,1975-10-01,54.7
+Irvine,1975-11-01,55.0
+Irvine,1975-12-01,55.4
+Irvine,1976-01-01,55.7
+Irvine,1976-02-01,55.4
+Irvine,1976-03-01,55.5
+Irvine,1976-04-01,55.5
+Irvine,1976-05-01,56.3
+Irvine,1976-06-01,56.5
+Irvine,1976-07-01,57.1
+Irvine,1976-08-01,57.4
+Irvine,1976-09-01,57.8
+Irvine,1976-10-01,58.0
+Irvine,1976-11-01,58.3
+Irvine,1976-12-01,58.5
+Irvine,1977-01-01,59.2
+Irvine,1977-02-01,59.7
+Irvine,1977-03-01,59.8
+Irvine,1977-04-01,60.2
+Irvine,1977-05-01,60.4
+Irvine,1977-06-01,60.8
+Irvine,1977-07-01,61.1
+Irvine,1977-08-01,61.1
+Irvine,1977-09-01,61.5
+Irvine,1977-10-01,61.5
+Irvine,1977-11-01,61.9
+Irvine,1977-12-01,62.4
+Irvine,1978-01-01,62.8
+Irvine,1978-02-01,63.1
+Irvine,1978-03-01,63.4
+Irvine,1978-04-01,64.2
+Irvine,1978-05-01,64.8
+Irvine,1978-06-01,65.5
+Irvine,1978-07-01,65.8
+Irvine,1978-08-01,66.0
+Irvine,1978-09-01,66.8
+Irvine,1978-10-01,66.9
+Irvine,1978-11-01,67.1
+Irvine,1978-12-01,66.7
+Irvine,1979-01-01,67.6
+Irvine,1979-02-01,68.3
+Irvine,1979-03-01,69.0
+Irvine,1979-04-01,70.3
+Irvine,1979-05-01,71.4
+Irvine,1979-06-01,72.1
+Irvine,1979-07-01,72.7
+Irvine,1979-08-01,73.6
+Irvine,1979-09-01,74.7
+Irvine,1979-10-01,75.1
+Irvine,1979-11-01,75.9
+Irvine,1979-12-01,77.2
+Irvine,1980-01-01,78.7
+Irvine,1980-02-01,80.4
+Irvine,1980-03-01,81.7
+Irvine,1980-04-01,82.8
+Irvine,1980-05-01,84.3
+Irvine,1980-06-01,84.7
+Irvine,1980-07-01,84.2
+Irvine,1980-08-01,83.7
+Irvine,1980-09-01,84.5
+Irvine,1980-10-01,85.5
+Irvine,1980-11-01,86.5
+Irvine,1980-12-01,87.6
+Irvine,1981-01-01,87.8
+Irvine,1981-02-01,88.5
+Irvine,1981-03-01,89.1
+Irvine,1981-04-01,89.9
+Irvine,1981-05-01,90.5
+Irvine,1981-06-01,90.7
+Irvine,1981-07-01,92.1
+Irvine,1981-08-01,93.0
+Irvine,1981-09-01,94.5
+Irvine,1981-10-01,95.2
+Irvine,1981-11-01,95.3
+Irvine,1981-12-01,95.5
+Irvine,1982-01-01,96.7
+Irvine,1982-02-01,96.6
+Irvine,1982-03-01,96.9
+Irvine,1982-04-01,97.0
+Irvine,1982-05-01,97.2
+Irvine,1982-06-01,98.2
+Irvine,1982-07-01,97.9
+Irvine,1982-08-01,97.9
+Irvine,1982-09-01,97.5
+Irvine,1982-10-01,98.0
+Irvine,1982-11-01,97.6
+Irvine,1982-12-01,96.6
+Irvine,1983-01-01,96.7
+Irvine,1983-02-01,97.1
+Irvine,1983-03-01,97.2
+Irvine,1983-04-01,98.0
+Irvine,1983-05-01,98.8
+Irvine,1983-06-01,99.4
+Irvine,1983-07-01,99.7
+Irvine,1983-08-01,99.9
+Irvine,1983-09-01,100.3
+Irvine,1983-10-01,100.5
+Irvine,1983-11-01,100.4
+Irvine,1983-12-01,100.8
+Irvine,1984-01-01,101.2
+Irvine,1984-02-01,101.6
+Irvine,1984-03-01,101.8
+Irvine,1984-04-01,102.5
+Irvine,1984-05-01,103.4
+Irvine,1984-06-01,103.4
+Irvine,1984-07-01,103.5
+Irvine,1984-08-01,104.5
+Irvine,1984-09-01,105.0
+Irvine,1984-10-01,105.5
+Irvine,1984-11-01,105.5
+Irvine,1984-12-01,105.3
+Irvine,1985-01-01,105.9
+Irvine,1985-02-01,106.3
+Irvine,1985-03-01,106.5
+Irvine,1985-04-01,106.9
+Irvine,1985-05-01,108.0
+Irvine,1985-06-01,108.1
+Irvine,1985-07-01,108.8
+Irvine,1985-08-01,109.6
+Irvine,1985-09-01,109.6
+Irvine,1985-10-01,110.4
+Irvine,1985-11-01,110.0
+Irvine,1985-12-01,110.4
+Irvine,1986-01-01,110.6
+Irvine,1986-02-01,110.5
+Irvine,1986-03-01,111.1
+Irvine,1986-04-01,110.6
+Irvine,1986-05-01,111.5
+Irvine,1986-06-01,112.1
+Irvine,1986-07-01,112.0
+Irvine,1986-08-01,112.0
+Irvine,1986-09-01,113.3
+Irvine,1986-10-01,113.8
+Irvine,1986-11-01,113.0
+Irvine,1986-12-01,112.7
+Irvine,1987-01-01,113.4
+Irvine,1987-02-01,114.7
+Irvine,1987-03-01,115.5
+Irvine,1987-04-01,116.0
+Irvine,1987-05-01,116.8
+Irvine,1987-06-01,116.5
+Irvine,1987-07-01,116.5
+Irvine,1987-08-01,117.3
+Irvine,1987-09-01,118.0
+Irvine,1987-10-01,118.6
+Irvine,1987-11-01,118.2
+Irvine,1987-12-01,118.5
+Irvine,1988-01-01,118.9
+Irvine,1988-02-01,119.7
+Irvine,1988-03-01,120.6
+Irvine,1988-04-01,121.1
+Irvine,1988-05-01,122.0
+Irvine,1988-06-01,122.0
+Irvine,1988-07-01,122.1
+Irvine,1988-08-01,122.6
+Irvine,1988-09-01,123.4
+Irvine,1988-10-01,124.0
+Irvine,1988-11-01,124.1
+Irvine,1988-12-01,124.2
+Irvine,1989-01-01,124.6
+Irvine,1989-02-01,125.5
+Irvine,1989-03-01,126.2
+Irvine,1989-04-01,127.2
+Irvine,1989-05-01,128.3
+Irvine,1989-06-01,128.7
+Irvine,1989-07-01,129.0
+Irvine,1989-08-01,128.9
+Irvine,1989-09-01,130.1
+Irvine,1989-10-01,130.0
+Irvine,1989-11-01,130.0
+Irvine,1989-12-01,130.6
+Irvine,1990-01-01,132.1
+Irvine,1990-02-01,133.6
+Irvine,1990-03-01,134.5
+Irvine,1990-04-01,134.2
+Irvine,1990-05-01,134.6
+Irvine,1990-06-01,135.0
+Irvine,1990-07-01,135.6
+Irvine,1990-08-01,136.3
+Irvine,1990-09-01,137.7
+Irvine,1990-10-01,138.7
+Irvine,1990-11-01,138.9
+Irvine,1990-12-01,139.2
+Irvine,1991-01-01,140.0
+Irvine,1991-02-01,139.9
+Irvine,1991-03-01,139.7
+Irvine,1991-04-01,140.7
+Irvine,1991-05-01,140.8
+Irvine,1991-06-01,140.8
+Irvine,1991-07-01,141.5
+Irvine,1991-08-01,141.7
+Irvine,1991-09-01,142.6
+Irvine,1991-10-01,142.9
+Irvine,1991-11-01,143.5
+Irvine,1991-12-01,143.1
+Irvine,1992-01-01,144.3
+Irvine,1992-02-01,144.9
+Irvine,1992-03-01,145.5
+Irvine,1992-04-01,145.8
+Irvine,1992-05-01,146.0
+Irvine,1992-06-01,146.2
+Irvine,1992-07-01,146.7
+Irvine,1992-08-01,146.9
+Irvine,1992-09-01,147.4
+Irvine,1992-10-01,148.4
+Irvine,1992-11-01,148.2
+Irvine,1992-12-01,148.2
+Irvine,1993-01-01,149.2
+Irvine,1993-02-01,150.0
+Irvine,1993-03-01,149.8
+Irvine,1993-04-01,149.9
+Irvine,1993-05-01,150.1
+Irvine,1993-06-01,149.7
+Irvine,1993-07-01,149.8
+Irvine,1993-08-01,149.9
+Irvine,1993-09-01,150.2
+Irvine,1993-10-01,150.9
+Irvine,1993-11-01,151.6
+Irvine,1993-12-01,151.9
+Irvine,1994-01-01,152.2
+Irvine,1994-02-01,152.2
+Irvine,1994-03-01,152.5
+Irvine,1994-04-01,152.0
+Irvine,1994-05-01,151.4
+Irvine,1994-06-01,151.3
+Irvine,1994-07-01,151.7
+Irvine,1994-08-01,152.0
+Irvine,1994-09-01,152.7
+Irvine,1994-10-01,153.4
+Irvine,1994-11-01,152.9
+Irvine,1994-12-01,153.4
+Irvine,1995-01-01,154.3
+Irvine,1995-02-01,154.5
+Irvine,1995-03-01,154.6
+Irvine,1995-04-01,154.7
+Irvine,1995-05-01,155.1
+Irvine,1995-06-01,154.8
+Irvine,1995-07-01,154.5
+Irvine,1995-08-01,154.4
+Irvine,1995-09-01,154.6
+Irvine,1995-10-01,155.2
+Irvine,1995-11-01,154.4
+Irvine,1995-12-01,154.6
+Irvine,1996-01-01,155.7
+Irvine,1996-02-01,156.2
+Irvine,1996-03-01,157.3
+Irvine,1996-04-01,157.7
+Irvine,1996-05-01,157.5
+Irvine,1996-06-01,156.7
+Irvine,1996-07-01,157.6
+Irvine,1996-08-01,157.3
+Irvine,1996-09-01,158.2
+Irvine,1996-10-01,158.8
+Irvine,1996-11-01,158.4
+Irvine,1996-12-01,158.3
+Irvine,1997-01-01,159.1
+Irvine,1997-02-01,159.2
+Irvine,1997-03-01,159.8
+Irvine,1997-04-01,159.9
+Irvine,1997-05-01,159.5
+Irvine,1997-06-01,159.4
+Irvine,1997-07-01,159.5
+Irvine,1997-08-01,159.7
+Irvine,1997-09-01,160.5
+Irvine,1997-10-01,161.1
+Irvine,1997-11-01,160.7
+Irvine,1997-12-01,161.2
+Irvine,1998-01-01,161.0
+Irvine,1998-02-01,161.1
+Irvine,1998-03-01,161.4
+Irvine,1998-04-01,161.8
+Irvine,1998-05-01,162.3
+Irvine,1998-06-01,162.2
+Irvine,1998-07-01,162.1
+Irvine,1998-08-01,162.6
+Irvine,1998-09-01,162.6
+Irvine,1998-10-01,163.2
+Irvine,1998-11-01,163.4
+Irvine,1998-12-01,163.5
+Irvine,1999-01-01,164.2
+Irvine,1999-02-01,164.6
+Irvine,1999-03-01,165.0
+Irvine,1999-04-01,166.6
+Irvine,1999-05-01,166.2
+Irvine,1999-06-01,165.4
+Irvine,1999-07-01,165.8
+Irvine,1999-08-01,166.3
+Irvine,1999-09-01,167.2
+Irvine,1999-10-01,167.2
+Irvine,1999-11-01,167.1
+Irvine,1999-12-01,167.3
+Irvine,2000-01-01,167.9
+Irvine,2000-02-01,169.3
+Irvine,2000-03-01,170.7
+Irvine,2000-04-01,170.6
+Irvine,2000-05-01,171.1
+Irvine,2000-06-01,171.0
+Irvine,2000-07-01,171.7
+Irvine,2000-08-01,172.2
+Irvine,2000-09-01,173.3
+Irvine,2000-10-01,173.8
+Irvine,2000-11-01,173.5
+Irvine,2000-12-01,173.5
+Irvine,2001-01-01,174.2
+Irvine,2001-02-01,175.4
+Irvine,2001-03-01,176.2
+Irvine,2001-04-01,176.6
+Irvine,2001-05-01,177.5
+Irvine,2001-06-01,178.9
+Irvine,2001-07-01,178.3
+Irvine,2001-08-01,178.4
+Irvine,2001-09-01,178.8
+Irvine,2001-10-01,178.3
+Irvine,2001-11-01,178.1
+Irvine,2001-12-01,177.1
+Irvine,2002-01-01,178.9
+Irvine,2002-02-01,180.1
+Irvine,2002-03-01,181.1
+Irvine,2002-04-01,182.2
+Irvine,2002-05-01,182.6
+Irvine,2002-06-01,181.9
+Irvine,2002-07-01,182.2
+Irvine,2002-08-01,183.0
+Irvine,2002-09-01,183.4
+Irvine,2002-10-01,183.7
+Irvine,2002-11-01,184.0
+Irvine,2002-12-01,183.7
+Irvine,2003-01-01,185.2
+Irvine,2003-02-01,186.5
+Irvine,2003-03-01,188.2
+Irvine,2003-04-01,187.6
+Irvine,2003-05-01,186.4
+Irvine,2003-06-01,186.3
+Irvine,2003-07-01,186.3
+Irvine,2003-08-01,186.9
+Irvine,2003-09-01,188.2
+Irvine,2003-10-01,187.8
+Irvine,2003-11-01,187.1
+Irvine,2003-12-01,187.0
+Irvine,2004-01-01,188.5
+Irvine,2004-02-01,190.1
+Irvine,2004-03-01,191.5
+Irvine,2004-04-01,191.9
+Irvine,2004-05-01,193.3
+Irvine,2004-06-01,193.7
+Irvine,2004-07-01,193.4
+Irvine,2004-08-01,193.1
+Irvine,2004-09-01,194.5
+Irvine,2004-10-01,196.3
+Irvine,2004-11-01,196.9
+Irvine,2004-12-01,195.2
+Irvine,2005-01-01,195.4
+Irvine,2005-02-01,197.4
+Irvine,2005-03-01,199.2
+Irvine,2005-04-01,201.1
+Irvine,2005-05-01,201.5
+Irvine,2005-06-01,200.7
+Irvine,2005-07-01,201.4
+Irvine,2005-08-01,203.1
+Irvine,2005-09-01,205.8
+Irvine,2005-10-01,206.9
+Irvine,2005-11-01,205.6
+Irvine,2005-12-01,203.9
+Irvine,2006-01-01,206.0
+Irvine,2006-02-01,207.5
+Irvine,2006-03-01,208.5
+Irvine,2006-04-01,210.5
+Irvine,2006-05-01,212.4
+Irvine,2006-06-01,211.1
+Irvine,2006-07-01,211.4
+Irvine,2006-08-01,211.9
+Irvine,2006-09-01,212.9
+Irvine,2006-10-01,211.4
+Irvine,2006-11-01,211.1
+Irvine,2006-12-01,210.6
+Irvine,2007-01-01,212.584
+Irvine,2007-02-01,214.76
+Irvine,2007-03-01,216.5
+Irvine,2007-04-01,217.845
+Irvine,2007-05-01,218.596
+Irvine,2007-06-01,217.273
+Irvine,2007-07-01,217.454
+Irvine,2007-08-01,217.33
+Irvine,2007-09-01,217.697
+Irvine,2007-10-01,218.696
+Irvine,2007-11-01,219.943
+Irvine,2007-12-01,219.373
+Irvine,2008-01-01,220.918
+Irvine,2008-02-01,221.431
+Irvine,2008-03-01,223.606
+Irvine,2008-04-01,224.625
+Irvine,2008-05-01,226.651
+Irvine,2008-06-01,229.033
+Irvine,2008-07-01,229.886
+Irvine,2008-08-01,228.484
+Irvine,2008-09-01,227.449
+Irvine,2008-10-01,226.159
+Irvine,2008-11-01,222.229
+Irvine,2008-12-01,219.62
+Irvine,2009-01-01,220.719
+Irvine,2009-02-01,221.439
+Irvine,2009-03-01,221.376
+Irvine,2009-04-01,221.693
+Irvine,2009-05-01,222.522
+Irvine,2009-06-01,223.906
+Irvine,2009-07-01,224.01
+Irvine,2009-08-01,224.507
+Irvine,2009-09-01,225.226
+Irvine,2009-10-01,225.264
+Irvine,2009-11-01,224.317
+Irvine,2009-12-01,223.643
+Irvine,2010-01-01,224.61
+Irvine,2010-02-01,224.62
+Irvine,2010-03-01,225.483
+Irvine,2010-04-01,225.916
+Irvine,2010-05-01,226.438
+Irvine,2010-06-01,225.877
+Irvine,2010-07-01,225.991
+Irvine,2010-08-01,226.373
+Irvine,2010-09-01,226.048
+Irvine,2010-10-01,226.794
+Irvine,2010-11-01,225.941
+Irvine,2010-12-01,226.639
+Irvine,2011-01-01,228.652
+Irvine,2011-02-01,229.729
+Irvine,2011-03-01,232.241
+Irvine,2011-04-01,233.319
+Irvine,2011-05-01,233.367
+Irvine,2011-06-01,232.328
+Irvine,2011-07-01,231.303
+Irvine,2011-08-01,231.833
+Irvine,2011-09-01,233.022
+Irvine,2011-10-01,233.049
+Irvine,2011-11-01,232.731
+Irvine,2011-12-01,231.567
+Irvine,2012-01-01,233.441
+Irvine,2012-02-01,234.537
+Irvine,2012-03-01,236.941
+Irvine,2012-04-01,236.866
+Irvine,2012-05-01,237.032
+Irvine,2012-06-01,236.025
+Irvine,2012-07-01,235.776
+Irvine,2012-08-01,237.222
+Irvine,2012-09-01,238.104
+Irvine,2012-10-01,240.111
+Irvine,2012-11-01,237.675
+Irvine,2012-12-01,236.042
+Irvine,2013-01-01,238.015
+Irvine,2013-02-01,239.753
+Irvine,2013-03-01,239.995
+Irvine,2013-04-01,239.043
+Irvine,2013-05-01,239.346
+Irvine,2013-06-01,239.223
+Irvine,2013-07-01,238.92
+Irvine,2013-08-01,239.219
+Irvine,2013-09-01,239.611
+Irvine,2013-10-01,239.94
+Irvine,2013-11-01,238.677
+Irvine,2013-12-01,238.742
+Irvine,2014-01-01,239.857
+Irvine,2014-02-01,241.059
+Irvine,2014-03-01,242.491
+Irvine,2014-04-01,242.437
+Irvine,2014-05-01,243.362
+Irvine,2014-06-01,243.528
+Irvine,2014-07-01,243.727
+Irvine,2014-08-01,243.556
+Irvine,2014-09-01,243.623
+Irvine,2014-10-01,243.341
+Irvine,2014-11-01,241.753
+Irvine,2014-12-01,240.475
+Irvine,2015-01-01,239.724
+Irvine,2015-02-01,241.297
+Irvine,2015-03-01,243.738
+Irvine,2015-04-01,243.569
+Irvine,2015-05-01,246.093
+Irvine,2015-06-01,245.459
+Irvine,2015-07-01,247.066
+Irvine,2015-08-01,246.328
+Irvine,2015-09-01,245.431
+Irvine,2015-10-01,245.812
+Irvine,2015-11-01,245.711
+Irvine,2015-12-01,245.357
+Irvine,2016-01-01,247.155
+Irvine,2016-02-01,247.113
+Irvine,2016-03-01,247.873
+Irvine,2016-04-01,248.368
+Irvine,2016-05-01,249.554
+Irvine,2016-06-01,249.789
+Irvine,2016-07-01,249.784
+Irvine,2016-08-01,249.7
+Irvine,2016-09-01,250.145
+Irvine,2016-10-01,251.098
+Irvine,2016-11-01,250.185
+Irvine,2016-12-01,250.189
+Irvine,2017-01-01,252.373
+Irvine,2017-02-01,253.815
+Irvine,2017-03-01,254.525
+Irvine,2017-04-01,254.971
+Irvine,2017-05-01,255.674
+Irvine,2017-06-01,255.275
+Irvine,2017-07-01,256.023
+Irvine,2017-08-01,256.739
+Irvine,2017-09-01,257.89
+Irvine,2017-10-01,258.883
+Irvine,2017-11-01,259.135
+Irvine,2017-12-01,259.22
